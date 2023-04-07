@@ -1,661 +1,661 @@
-year,name,pick,college,ws_48,bpm,vorp
-2011,Kyrie Irving,1,Duke,.166,4.5,37.6
-2011,Derrick Williams,2,Arizona,.076,-1.6,0.8
-2011,Enes Freedom,3,,.157,-0.1,7.6
-2011,Tristan Thompson,4,Texas,.117,-1.7,1.4
-2011,Jonas Valančiūnas,5,,.175,1.0,15.1
-2011,Jan Veselý,6,,.078,-2.6,-0.4
-2011,Bismack Biyombo,7,,.096,-2.5,-2.0
-2011,Brandon Knight,8,Kentucky,.042,-1.6,1.4
-2011,Kemba Walker,9,UConn,.116,2.8,29.8
-2011,Jimmer Fredette,10,BYU,.033,-2.5,-0.4
-2011,Klay Thompson,11,Washington State,.105,0.6,15.8
-2011,Alec Burks,12,Colorado,.088,-0.4,6.2
-2011,Markieff Morris,13,Kansas,.073,-1.4,2.8
-2011,Marcus Morris,14,Kansas,.087,-0.7,7.1
-2011,Kawhi Leonard,15,San Diego State,.220,6.8,43.8
-2011,Nikola Vučević,16,USC,.126,2.2,27.4
-2011,Iman Shumpert,17,Georgia Tech,.054,-1.7,0.9
-2011,Chris Singleton,18,Florida State,.042,-3.2,-0.8
-2011,Tobias Harris,19,Tennessee,.118,1.0,19.9
-2011,Donatas Motiejūnas,20,,.075,-2.5,-0.5
-2011,Nolan Smith,21,Duke,-.047,-6.0,-0.8
-2011,Kenneth Faried,22,Morehead State University,.159,0.5,7.5
-2011,Nikola Mirotić,23,,.129,1.6,7.1
-2011,Reggie Jackson,24,Boston College,.083,-0.3,8.2
-2011,MarShon Brooks,25,Providence,.046,-1.6,0.4
-2011,Jordan Hamilton,26,Texas,.069,-0.1,1.0
-2011,JaJuan Johnson,27,Purdue,.032,-3.9,-0.1
-2011,Norris Cole,28,Cleveland State University,.018,-4.1,-4.1
-2011,Cory Joseph,29,Texas,.084,-1.1,4.0
-2011,Jimmy Butler,30,Marquette,.203,5.0,44.0
-2011,Bojan Bogdanović,31,,.090,-0.7,6.2
-2011,Justin Harper,32,Richmond,-.093,-8.7,-0.2
-2011,Kyle Singler,33,Duke,.062,-2.5,-0.9
-2011,Shelvin Mack,34,Butler,.059,-1.9,0.1
-2011,Tyler Honeycutt,35,UCLA,-.049,-5.1,-0.1
-2011,Jordan Williams,36,Maryland,.101,-2.1,0.0
-2011,Trey Thompkins,37,Georgia,.004,-5.7,-0.1
-2011,Chandler Parsons,38,Florida,.105,1.1,10.2
-2011,Jeremy Tyler,39,,.014,-7.0,-1.3
-2011,Jon Leuer,40,Wisconsin,.107,-0.7,2.0
-2011,Darius Morris,41,Michigan,-.010,-5.1,-1.2
-2011,Dāvis Bertāns,42,,.108,0.3,4.5
-2011,Malcolm Lee,43,UCLA,.040,-2.5,-0.1
-2011,Charles Jenkins,44,Hofstra,.017,-4.5,-0.8
-2011,Josh Harrellson,45,Kentucky,.116,-0.4,0.4
-2011,Andrew Goudelock,46,College of Charleston,.003,-5.0,-0.3
-2011,Travis Leslie,47,Georgia,.060,-0.3,0.0
-2011,Keith Benson,48,Oakland,-.005,-7.7,0.0
-2011,Josh Selby,49,Kansas,-.113,-9.5,-0.6
-2011,Lavoy Allen,50,Temple,.096,-2.1,-0.1
-2011,Jon Diebler,51,Ohio State,,,
-2011,Vernon Macklin,52,Florida,.161,1.2,0.1
-2011,DeAndre Liggins,53,Kentucky,.040,-2.2,-0.1
-2011,Milan Mačvan,54,,,,
-2011,E'Twaun Moore,55,Purdue,.057,-1.9,0.2
-2011,Chukwudiebere Maduabum,56,,,,
-2011,Tanguy Ngombo,57,,,,
-2011,Ater Majok,58,,,,
-2011,Ádám Hanga,59,,,,
-2011,Isaiah Thomas,60,Washington,.140,2.1,16.1
-2012,Anthony Davis,1,Kentucky,.212,6.1,46.0
-2012,Michael Kidd-Gilchrist,2,Kentucky,.092,-1.8,0.6
-2012,Bradley Beal,3,Florida,.104,1.7,22.6
-2012,Dion Waiters,4,Syracuse,.036,-2.1,-0.4
-2012,Thomas Robinson,5,Kansas,.053,-3.5,-1.6
-2012,Damian Lillard,6,Weber State,.177,4.9,48.6
-2012,Harrison Barnes,7,UNC,.093,-0.8,7.7
-2012,Terrence Ross,8,Washington,.067,-1.0,4.5
-2012,Andre Drummond,9,UConn,.153,1.2,18.0
-2012,Austin Rivers,10,Duke,.043,-3.1,-4.5
-2012,Meyers Leonard,11,Illinois,.104,-1.4,1.1
-2012,Jeremy Lamb,12,UConn,.108,0.6,7.9
-2012,Kendall Marshall,13,UNC,.015,-3.5,-1.1
-2012,John Henson,14,UNC,.113,-0.5,3.4
-2012,Maurice Harkless,15,St. John's,.079,-0.8,4.1
-2012,Royce White,16,Iowa State,-.121,-16.9,0.0
-2012,Tyler Zeller,17,UNC,.113,-2.0,0.0
-2012,Terrence Jones,18,Kentucky,.127,0.5,3.6
-2012,Andrew Nicholson,19,St. Bonaventure,.045,-3.6,-1.6
-2012,Evan Fournier,20,,.078,-1.0,4.7
-2012,Jared Sullinger,21,Ohio State,.113,-0.4,2.7
-2012,Fab Melo,22,Syracuse,.021,-7.6,-0.1
-2012,John Jenkins,23,Vanderbilt,.065,-1.9,0.1
-2012,Jared Cunningham,24,Oregon State,.017,-5.7,-0.6
-2012,Tony Wroten,25,Washington,-.021,-3.4,-1.1
-2012,Miles Plumlee,26,Duke,.090,-1.9,0.2
-2012,Arnett Moultrie,27,Mississippi State,.113,-2.8,-0.1
-2012,Perry Jones,28,Baylor,.048,-3.5,-0.6
-2012,Marquis Teague,29,Kentucky,-.045,-6.5,-1.0
-2012,Festus Ezeli,30,Vanderbilt,.119,-2.0,0.0
-2012,Jeff Taylor,31,Vanderbilt,.024,-4.2,-1.5
-2012,Tomáš Satoranský,32,,.100,-0.9,2.4
-2012,Bernard James,33,Florida State,.117,-1.8,0.0
-2012,Jae Crowder,34,Marquette,.104,0.3,11.0
-2012,Draymond Green,35,Michigan State,.126,2.5,24.7
-2012,Orlando Johnson,36,UC Santa Barbara,.059,-2.4,-0.1
-2012,Quincy Acy,37,Baylor,.078,-2.0,-0.1
-2012,Quincy Miller,38,Baylor,-.003,-3.9,-0.5
-2012,Khris Middleton,39,Texas A&M,.117,0.7,14.8
-2012,Will Barton,40,Memphis,.074,-0.4,6.9
-2012,Tyshawn Taylor,41,Kansas,-.088,-8.1,-0.8
-2012,Doron Lamb,42,Kentucky,.005,-5.8,-1.2
-2012,Mike Scott,43,Virginia,.088,-1.7,0.6
-2012,Kim English,44,Missouri,.021,-4.2,-0.2
-2012,Justin Hamilton,45,LSU,.091,-0.9,0.5
-2012,Darius Miller,46,Kentucky,.059,-2.3,-0.4
-2012,Kevin Murphy,47,Tennessee Technological University,-.272,-16.8,-0.2
-2012,Kostas Papanikolaou,48,,.015,-2.7,-0.2
-2012,Kyle O'Quinn,49,Norfolk State,.128,0.9,5.0
-2012,İzzet Türkyılmaz,50,,,,
-2012,Kris Joseph,51,Syracuse,-.127,-9.9,-0.1
-2012,Ognjen Kuzmić,52,,.061,-5.6,-0.2
-2012,Furkan Aldemir,53,,.122,-3.6,-0.2
-2012,Tornike Shengelia,54,,-.032,-7.0,-0.3
-2012,Darius Johnson-Odom,55,Marquette,-.597,-25.5,-0.1
-2012,Tomislav Zubčić,56,,,,
-2012,İlkan Karaman,57,,,,
-2012,Robbie Hummel,58,Purdue,.066,-3.1,-0.4
-2012,Marcus Denmon,59,Missouri,,,
-2012,Robert Sacre,60,Gonzaga,.042,-4.0,-1.4
-2013,Anthony Bennett,1,UNLV,.013,-4.8,-1.3
-2013,Victor Oladipo,2,Indiana,.076,0.7,10.8
-2013,Otto Porter Jr.,3,Georgetown,.132,1.8,12.6
-2013,Cody Zeller,4,Indiana,.140,-0.6,4.0
-2013,Alex Len,5,Maryland,.096,-2.0,0.1
-2013,Nerlens Noel,6,Kentucky,.132,0.9,7.4
-2013,Ben McLemore,7,Kansas,.035,-3.1,-3.4
-2013,Kentavious Caldwell-Pope,8,Georgia,.084,-0.8,6.5
-2013,Trey Burke,9,Michigan,.060,-1.3,1.7
-2013,CJ McCollum,10,Lehigh,.101,1.3,17.5
-2013,Michael Carter-Williams,11,Syracuse,.032,-1.2,1.9
-2013,Steven Adams,12,Pitt,.150,0.5,12.1
-2013,Kelly Olynyk,13,Gonzaga,.124,0.8,10.8
-2013,Shabazz Muhammad,14,UCLA,.085,-2.0,0.0
-2013,Giannis Antetokounmpo,15,,.198,6.2,48.6
-2013,Lucas Nogueira,16,,.165,2.3,1.9
-2013,Dennis Schröder,17,,.068,-1.4,2.9
-2013,Shane Larkin,18,Miami (FL),.044,-2.4,-0.6
-2013,Sergey Karasev,19,,.036,-3.4,-0.4
-2013,Tony Snell,20,New Mexico,.068,-2.0,-0.1
-2013,Gorgui Dieng,21,Louisville,.117,0.3,7.1
-2013,Mason Plumlee,22,Duke,.148,1.4,14.3
-2013,Solomon Hill,23,Arizona,.059,-2.1,-0.3
-2013,Tim Hardaway Jr.,24,Michigan,.075,-0.9,5.0
-2013,Reggie Bullock,25,UNC,.082,-1.1,2.6
-2013,Andre Roberson,26,Colorado,.089,-0.6,2.3
-2013,Rudy Gobert,27,,.221,3.6,29.1
-2013,Livio Jean-Charles,28,,,,
-2013,Archie Goodwin,29,Kentucky,.022,-3.0,-0.6
-2013,Nemanja Nedović,30,,-.132,-10.0,-0.3
-2013,Allen Crabbe,31,California,.072,-1.6,0.9
-2013,Álex Abrines,32,,.086,-1.9,0.1
-2013,Carrick Felix,33,Arizona State,.057,-3.4,0.0
-2013,Isaiah Canaan,34,Murray State,.043,-2.4,-0.5
-2013,Glen Rice Jr.,35,Georgia Tech,-.065,-6.6,-0.2
-2013,Ray McCallum,36,Detroit Mercy,.035,-2.6,-0.4
-2013,Tony Mitchell,37,University of North Texas,.151,0.4,0.0
-2013,Nate Wolters,38,South Dakota State,.028,-2.6,-0.2
-2013,Jeff Withey,39,Kansas,.157,0.5,1.3
-2013,Grant Jerrett,40,Arizona,-.128,-10.8,-0.1
-2013,Jamaal Franklin,41,San Diego State,-.006,-5.9,-0.2
-2013,Pierre Jackson,42,Baylor,.021,-4.4,-0.1
-2013,Ricky Ledo,43,Providence,-.096,-7.6,-0.4
-2013,Mike Muscala,44,Bucknell,.119,0.1,4.1
-2013,Marko Todorović,45,,,,
-2013,Erick Green,46,Virginia Tech,.011,-4.0,-0.2
-2013,Raul Neto,47,,.082,-1.5,0.9
-2013,Ryan Kelly,48,Duke,.046,-2.6,-0.5
-2013,Erik Murphy,49,Florida,-.055,-8.6,-0.1
-2013,James Ennis III,50,Cal State Long Beach,.097,-1.5,0.9
-2013,Romero Osby,51,Oklahoma,,,
-2013,Lorenzo Brown,52,NC State,-.007,-3.5,-0.5
-2013,Colton Iverson,53,Colorado State,,,
-2013,Arsalan Kazemi,54,Oregon,,,
-2013,Joffrey Lauvergne,55,,.089,-2.1,-0.1
-2013,Peyton Siva,56,Louisville,-.032,-6.4,-0.2
-2013,Alex Oriakhi,57,Missouri,,,
-2013,Deshaun Thomas,58,Ohio State,,,
-2013,Bojan Dubljević,59,,,,
-2013,Jānis Timma,60,,,,
-2014,Andrew Wiggins,1,Kansas,.057,-1.5,3.0
-2014,Jabari Parker,2,Duke,.078,-0.8,2.5
-2014,Joel Embiid,3,Kansas,.215,6.5,26.8
-2014,Aaron Gordon,4,Arizona,.098,0.1,9.4
-2014,Dante Exum,5,,.032,-3.3,-1.5
-2014,Marcus Smart,6,Oklahoma State,.092,-0.3,7.7
-2014,Julius Randle,7,Kentucky,.101,0.9,13.6
-2014,Nik Stauskas,8,Michigan,.028,-3.0,-1.7
-2014,Noah Vonleh,9,Indiana,.077,-2.5,-0.7
-2014,Elfrid Payton,10,Louisiana,.057,-0.9,3.7
-2014,Doug McDermott,11,Creighton,.079,-2.0,0.0
-2014,Dario Šarić,12,,.088,-0.9,2.7
-2014,Zach LaVine,13,UCLA,.082,0.7,12.2
-2014,T.J. Warren,14,NC State,.097,-0.4,4.2
-2014,Adreian Payne,15,Michigan State,-.019,-5.9,-1.4
-2014,Jusuf Nurkić,16,,.112,0.4,6.8
-2014,James Young,17,Kentucky,.046,-3.4,-0.3
-2014,Tyler Ennis,18,Syracuse,.026,-3.4,-0.8
-2014,Gary Harris,19,Michigan State,.076,-1.3,2.5
-2014,Bruno Caboclo,20,,.054,-2.7,-0.2
-2014,Mitch McGary,21,Michigan,.108,-2.6,-0.1
-2014,Jordan Adams,22,UCLA,.070,1.7,0.2
-2014,Rodney Hood,23,Duke,.076,-1.2,2.2
-2014,Shabazz Napier,24,UConn,.065,-0.7,2.0
-2014,Clint Capela,25,,.201,2.1,14.6
-2014,P.J. Hairston,26,UNC,.021,-3.9,-1.0
-2014,Bogdan Bogdanović,27,,.086,0.4,6.4
-2014,C.J. Wilcox,28,Washington,.007,-4.3,-0.2
-2014,Josh Huestis,29,Stanford,.030,-3.5,-0.4
-2014,Kyle Anderson,30,UCLA,.123,1.9,12.2
-2014,Damien Inglis,31,,-.024,-5.6,-0.1
-2014,K.J. McDaniels,32,Clemson,.030,-2.8,-0.4
-2014,Joe Harris,33,Virginia,.091,-0.6,4.2
-2014,Cleanthony Early,34,Wichita State,-.039,-5.9,-0.8
-2014,Jarnell Stokes,35,Tennessee,.202,0.1,0.1
-2014,Johnny O'Bryant,36,LSU,.006,-6.2,-1.8
-2014,DeAndre Daniels,37,UConn,,,
-2014,Spencer Dinwiddie,38,Colorado,.107,0.4,7.8
-2014,Jerami Grant,39,Syracuse,.093,-0.4,6.8
-2014,Glenn Robinson III,40,Michigan,.071,-1.7,0.4
-2014,Nikola Jokić,41,,.248,9.4,52.8
-2014,Nick Johnson,42,Arizona,-.020,-6.5,-0.3
-2014,Edy Tavares,43,,.118,-0.4,0.0
-2014,Markel Brown,44,Oklahoma State,.029,-2.9,-0.4
-2014,Dwight Powell,45,Stanford,.185,0.9,8.3
-2014,Jordan Clarkson,46,Missouri,.062,-0.6,6.5
-2014,Russ Smith,47,Louisville,-.068,-5.1,-0.1
-2014,Lamar Patterson,48,Pitt,.006,-5.7,-0.4
-2014,Cameron Bairstow,49,New Mexico,-.021,-8.1,-0.3
-2014,Alec Brown,50,Green Bay,,,
-2014,Thanasis Antetokounmpo,51,,.064,-4.0,-0.7
-2014,Vasilije Micić,52,,,,
-2014,Alessandro Gentile,53,,,,
-2014,Nemanja Dangubić,54,,,,
-2014,Semaj Christon,55,Xavier,.006,-5.1,-0.8
-2014,Devyn Marble,56,Iowa,-.028,-5.5,-0.4
-2014,Louis Labeyrie,57,,,,
-2014,Jordan McRae,58,Tennessee,.048,-2.1,0.0
-2014,Xavier Thames,59,San Diego State,,,
-2014,Cory Jefferson,60,Baylor,.071,-3.3,-0.2
-2015,Karl-Anthony Towns,1,Kentucky,.189,4.7,29.4
-2015,D'Angelo Russell,2,Ohio State,.063,0.7,9.9
-2015,Jahlil Okafor,3,Duke,.071,-2.0,0.0
-2015,Kristaps Porziņģis,4,,.133,2.1,13.0
-2015,Mario Hezonja,5,,.025,-2.8,-1.2
-2015,Willie Cauley-Stein,6,Kentucky,.121,-0.1,4.4
-2015,Emmanuel Mudiay,7,,-.001,-3.2,-2.2
-2015,Stanley Johnson,8,Arizona,.037,-2.7,-1.6
-2015,Frank Kaminsky,9,Wisconsin,.094,-0.2,3.6
-2015,Justise Winslow,10,Duke,.044,-2.1,-0.3
-2015,Myles Turner,11,Texas,.129,0.8,10.1
-2015,Trey Lyles,12,Kentucky,.087,-1.0,2.3
-2015,Devin Booker,13,Kentucky,.096,0.9,13.2
-2015,Cameron Payne,14,Murray State,.075,-0.5,2.2
-2015,Kelly Oubre Jr.,15,Kansas,.068,-1.7,0.8
-2015,Terry Rozier,16,Louisville,.084,0.4,8.9
-2015,Rashad Vaughn,17,UNLV,-.017,-4.7,-1.2
-2015,Sam Dekker,18,Wisconsin,.083,-1.4,0.5
-2015,Jerian Grant,19,Notre Dame,.080,-1.6,0.5
-2015,Delon Wright,20,Utah,.130,2.3,10.5
-2015,Justin Anderson,21,Virginia,.072,-1.5,0.4
-2015,Bobby Portis,22,Arkansas,.109,-0.4,4.7
-2015,Rondae Hollis-Jefferson,23,Arizona,.091,-0.7,2.3
-2015,Tyus Jones,24,Duke,.116,0.6,6.8
-2015,Jarell Martin,25,LSU,.053,-4.3,-1.7
-2015,Nikola Milutinov,26,,,,
-2015,Larry Nance Jr.,27,Wyoming,.129,1.1,8.6
-2015,R.J. Hunter,28,Georgia State University,.051,-2.0,0.0
-2015,Chris McCullough,29,Syracuse,.054,-2.5,-0.1
-2015,Kevon Looney,30,UCLA,.174,0.3,4.6
-2015,Cedi Osman,31,,.053,-2.1,-0.4
-2015,Montrezl Harrell,32,Louisville,.195,2.6,12.2
-2015,Jordan Mickey,33,LSU,.050,-4.8,-0.3
-2015,Anthony Brown,34,Stanford,-.016,-5.1,-0.6
-2015,Willy Hernangómez,35,,.152,0.1,2.8
-2015,Rakeem Christmas,36,Syracuse,.105,-4.7,-0.2
-2015,Richaun Holmes,37,Bowling Green,.160,0.3,4.8
-2015,Darrun Hilliard,38,Villanova,.016,-4.7,-0.6
-2015,Juan Pablo Vaulet,39,,,,
-2015,Josh Richardson,40,Tennessee,.085,-0.5,5.5
-2015,Pat Connaughton,41,Notre Dame,.108,-0.2,4.2
-2015,Olivier Hanlan,42,Boston College,,,
-2015,Joe Young,43,Oregon,.016,-4.1,-0.6
-2015,Andrew Harrison,44,Kentucky,.051,-2.8,-0.6
-2015,Marcus Thornton,45,William & Mary,,,
-2015,Norman Powell,46,UCLA,.100,-0.1,5.2
-2015,Artūras Gudaitis,47,,,,
-2015,Dakari Johnson,48,Kentucky,.178,-0.3,0.1
-2015,Aaron White,49,Iowa,,,
-2015,Marcus Eriksson,50,,,,
-2015,Tyler Harvey,51,Eastern Washington,,,
-2015,Satnam Singh,52,,,,
-2015,Sir'Dominic Pointer,53,St. John's,,,
-2015,Dani Díez,54,,,,
-2015,Cady Lalanne,55,UMass,,,
-2015,Branden Dawson,56,Michigan State,.069,-5.7,0.0
-2015,Nikola Radičević,57,,,,
-2015,J.P. Tokoto,58,UNC,,,
-2015,Dimitrios Agravanis,59,,,,
-2015,Luka Mitrović,60,,,,
-2016,Ben Simmons,1,LSU,.150,3.4,14.1
-2016,Brandon Ingram,2,Duke,.078,-0.1,6.5
-2016,Jaylen Brown,3,California,.101,0.3,8.1
-2016,Dragan Bender,4,,.006,-3.9,-1.9
-2016,Kris Dunn,5,Providence,.039,-1.9,0.2
-2016,Buddy Hield,6,Oklahoma,.063,0.4,9.5
-2016,Jamal Murray,7,Kentucky,.099,0.4,7.7
-2016,Marquese Chriss,8,Washington,.058,-2.4,-0.5
-2016,Jakob Poeltl,9,Utah,.162,1.2,8.3
-2016,Thon Maker,10,,.087,-2.1,-0.1
-2016,Domantas Sabonis,11,Gonzaga,.156,2.5,16.5
-2016,Taurean Prince,12,Baylor,.045,-1.9,0.1
-2016,Georgios Papagiannis,13,,.044,-3.9,-0.2
-2016,Denzel Valentine,14,Michigan State,.044,-1.9,0.2
-2016,Juancho Hernangómez,15,,.080,-1.9,0.1
-2016,Guerschon Yabusele,16,,.105,-1.9,0.0
-2016,Wade Baldwin,17,Vanderbilt,-.028,-5.3,-0.5
-2016,Henry Ellenson,18,Marquette,.023,-3.7,-0.3
-2016,Malik Beasley,19,Florida State,.061,-1.2,1.9
-2016,Caris LeVert,20,Michigan,.071,-0.5,4.3
-2016,DeAndre' Bembry,21,Saint Joseph's,.038,-2.3,-0.4
-2016,Malachi Richardson,22,Syracuse,-.009,-6.1,-0.7
-2016,Ante Žižić,23,,.110,-2.6,-0.2
-2016,Timothé Luwawu-Cabarrot,24,,.043,-4.0,-2.7
-2016,Brice Johnson,25,UNC,.062,-0.6,0.0
-2016,Furkan Korkmaz,26,,.068,-1.9,0.2
-2016,Pascal Siakam,27,New Mexico State,.137,2.0,14.5
-2016,Skal Labissière,28,Kentucky,.081,-2.3,-0.2
-2016,Dejounte Murray,29,Washington,.093,1.6,9.9
-2016,Damian Jones,30,Vanderbilt,.143,-1.0,0.9
-2016,Deyonta Davis,31,Michigan State,.131,-2.1,0.0
-2016,Ivica Zubac,32,,.174,0.2,5.1
-2016,Cheick Diallo,33,Kansas,.139,-1.4,0.3
-2016,Tyler Ulis,34,Kentucky,.008,-3.6,-1.1
-2016,Rade Zagorac,35,,,,
-2016,Malcolm Brogdon,36,Virginia,.122,1.4,10.0
-2016,Chinanu Onuaku,37,Louisville,.043,-5.4,-0.1
-2016,Patrick McCaw,38,UNLV,.062,-2.8,-0.6
-2016,David Michineau,39,,,,
-2016,Diamond Stone,40,Maryland,-.211,-20.8,-0.1
-2016,Stephen Zimmerman,41,UNLV,-.005,-8.3,-0.2
-2016,Isaiah Whitehead,42,Seton Hall,-.025,-5.0,-1.4
-2016,Zhou Qi,43,,-.093,-9.6,-0.2
-2016,Isaïa Cordinier,44,,,,
-2016,Demetrius Jackson,45,Notre Dame,.087,-0.5,0.1
-2016,A.J. Hammons,46,Purdue,-.001,-6.6,-0.2
-2016,Jake Layman,47,Maryland,.059,-2.3,-0.2
-2016,Paul Zipser,48,,-.001,-5.2,-1.4
-2016,Michael Gbinije,49,Syracuse,-.136,-12.1,-0.1
-2016,Georges Niang,50,Iowa State,.085,-1.2,1.2
-2016,Ben Bentil,51,Providence,-.473,-25.9,-0.1
-2016,Joel Bolomboy,52,Weber State,.132,-0.1,0.0
-2016,Petr Cornelie,53,,-.015,-8.8,-0.1
-2016,Kay Felder,54,Oakland,-.041,-4.7,-0.4
-2016,Marcus Paige,55,UNC,-.006,-8.8,0.0
-2016,Daniel Hamilton,56,UConn,.000,-3.3,-0.1
-2016,Wang Zhelin,57,,,,
-2016,Abdel Nader,58,Iowa State,.052,-2.6,-0.4
-2016,Isaiah Cousins,59,Oklahoma,,,
-2016,Tyrone Wallace,60,California,.003,-5.2,-1.4
-2017,Markelle Fultz,1,Washington,.069,-1.1,1.2
-2017,Lonzo Ball,2,UCLA,.067,1.1,6.3
-2017,Jayson Tatum,3,Duke,.147,3.3,19.9
-2017,Josh Jackson,4,Kansas,-.012,-3.8,-3.1
-2017,De'Aaron Fox,5,Kentucky,.087,0.5,8.1
-2017,Jonathan Isaac,6,Florida State,.093,0.3,2.1
-2017,Lauri Markkanen,7,Arizona,.112,0.8,7.3
-2017,Frank Ntilikina,8,,.004,-4.3,-3.1
-2017,Dennis Smith Jr.,9,NC State,.004,-2.3,-0.5
-2017,Zach Collins,10,Gonzaga,.075,-1.7,0.4
-2017,Malik Monk,11,Kentucky,.054,-1.4,1.2
-2017,Luke Kennard,12,Duke,.101,-0.2,3.7
-2017,Donovan Mitchell,13,Louisville,.129,3.1,18.1
-2017,Bam Adebayo,14,Kentucky,.167,2.6,14.4
-2017,Justin Jackson,15,UNC,.052,-2.8,-1.0
-2017,Justin Patton,16,Creighton,.066,-2.8,-0.1
-2017,D.J. Wilson,17,Michigan,.075,-2.6,-0.3
-2017,T.J. Leaf,18,UCLA,.104,-1.8,0.1
-2017,John Collins,19,Wake Forest,.147,0.9,7.8
-2017,Harry Giles,20,Duke,.079,-2.4,-0.2
-2017,Terrance Ferguson,21,,.053,-4.0,-2.1
-2017,Jarrett Allen,22,Texas,.189,1.9,11.0
-2017,OG Anunoby,23,Indiana,.103,0.2,5.8
-2017,Tyler Lydon,24,Syracuse,.084,-4.3,-0.1
-2017,Anžejs Pasečņiks,25,,.038,-6.2,-0.5
-2017,Caleb Swanigan,26,Purdue,-.015,-6.2,-0.7
-2017,Kyle Kuzma,27,Utah,.057,-1.1,2.8
-2017,Tony Bradley,28,UNC,.181,0.2,1.1
-2017,Derrick White,29,Colorado,.120,1.4,7.9
-2017,Josh Hart,30,Villanova,.100,0.0,5.2
-2017,Frank Jackson,31,Duke,.031,-3.9,-1.9
-2017,Davon Reed,32,Miami (FL),.054,-3.0,-0.3
-2017,Wes Iwundu,33,Kansas State,.053,-3.9,-1.8
-2017,Frank Mason III,34,Kansas,.035,-2.6,-0.3
-2017,Ivan Rabb,35,California,.125,-1.7,0.1
-2017,Jonah Bolden,36,,.098,-1.3,0.1
-2017,Semi Ojeleye,37,SMU,.061,-3.4,-1.5
-2017,Jordan Bell,38,Oregon,.121,0.2,1.1
-2017,Jawun Evans,39,Oklahoma State,-.022,-5.4,-0.7
-2017,Dwayne Bacon,40,Florida State,.010,-5.1,-3.1
-2017,Tyler Dorsey,41,Oregon,.031,-3.0,-0.5
-2017,Thomas Bryant,42,Indiana,.167,1.2,3.6
-2017,Isaiah Hartenstein,43,,.163,1.0,2.9
-2017,Damyean Dotson,44,Oregon,.034,-2.8,-0.9
-2017,Dillon Brooks,45,Oregon,.034,-3.8,-4.5
-2017,Sterling Brown,46,SMU,.071,-2.1,-0.1
-2017,Ike Anigbogu,47,UCLA,.057,-1.1,0.0
-2017,Sindarius Thornwell,48,South Carolina,.032,-3.1,-0.5
-2017,Vlatko Čančar,49,,.087,-2.2,-0.1
-2017,Mathias Lessort,50,,,,
-2017,Monte Morris,51,Iowa State,.124,0.4,5.2
-2017,Edmond Sumner,52,Xavier,.068,-3.0,-0.6
-2017,Kadeem Allen,53,Arizona,.075,-1.2,0.1
-2017,Alec Peters,54,Valparaiso,.055,-2.8,0.0
-2017,Nigel Williams-Goss,55,Gonzaga,.017,-3.9,0.0
-2017,Jabari Bird,56,California,.098,-3.1,0.0
-2017,Sasha Vezenkov,57,,,,
-2017,Ognjen Jaramaz,58,,,,
-2017,Jaron Blossomgame,59,Clemson,.030,-3.8,-0.2
-2017,Alpha Kaba,60,,,,
-2018,Deandre Ayton,1,Arizona,.160,1.1,7.2
-2018,Marvin Bagley III,2,Duke,.087,-1.9,0.1
-2018,Luka Dončić,3,,.167,7.3,26.3
-2018,Jaren Jackson Jr.,4,Michigan State,.126,0.6,4.8
-2018,Trae Young,5,Oklahoma,.133,3.1,15.2
-2018,Mo Bamba,6,Texas,.122,0.2,2.8
-2018,Wendell Carter Jr.,7,Duke,.120,-0.2,3.2
-2018,Collin Sexton,8,Alabama,.046,-2.3,-0.7
-2018,Kevin Knox,9,Kentucky,.001,-4.5,-3.1
-2018,Mikal Bridges,10,Villanova,.123,1.2,10.3
-2018,Shai Gilgeous-Alexander,11,Kentucky,.137,3.1,13.1
-2018,Miles Bridges,12,Michigan State,.091,-0.2,3.8
-2018,Jerome Robinson,13,Boston College,-.003,-4.7,-1.1
-2018,Michael Porter Jr.,14,Missouri,.138,1.4,4.1
-2018,Troy Brown Jr.,15,Oregon,.062,-1.7,0.4
-2018,Zhaire Smith,16,Texas Tech,.011,-6.1,-0.1
-2018,Donte DiVincenzo,17,Villanova,.094,0.0,3.3
-2018,Lonnie Walker IV,18,Miami (FL),.032,-2.8,-1.2
-2018,Kevin Huerter,19,Maryland,.067,-0.8,3.1
-2018,Josh Okogie,20,Georgia Tech,.061,-2.4,-0.6
-2018,Grayson Allen,21,Duke,.103,-0.4,2.4
-2018,Chandler Hutchison,22,Boise State,.030,-3.9,-0.9
-2018,Aaron Holiday,23,UCLA,.052,-2.2,-0.3
-2018,Anfernee Simons,24,,.049,-1.8,0.3
-2018,Moritz Wagner,25,Michigan,.112,-0.8,1.2
-2018,Landry Shamet,26,Wichita State,.081,-1.8,0.3
-2018,Robert Williams,27,Texas A&M,.249,4.9,7.4
-2018,Jacob Evans,28,Cincinnati,-.047,-7.4,-0.8
-2018,Džanan Musa,29,,.003,-4.6,-0.4
-2018,Omari Spellman,30,Villanova,.068,-1.5,0.2
-2018,Elie Okobo,31,,.014,-4.1,-0.9
-2018,Jevon Carter,32,West Virginia,.078,-0.9,1.4
-2018,Jalen Brunson,33,Villanova,.136,1.0,7.0
-2018,Devonte' Graham,34,Kansas,.075,-0.4,3.3
-2018,Melvin Frazier,35,Tulane,-.062,-10.0,-0.6
-2018,Mitchell Robinson,36,,.214,2.3,7.7
-2018,Gary Trent Jr.,37,Duke,.086,-0.6,2.6
-2018,Khyri Thomas,38,Creighton,.058,-2.7,-0.1
-2018,Isaac Bonga,39,,.044,-3.6,-0.7
-2018,Rodions Kurucs,40,,.052,-2.8,-0.4
-2018,Jarred Vanderbilt,41,Kentucky,.137,0.4,3.0
-2018,Bruce Brown,42,Miami (FL),.094,-0.9,2.4
-2018,Justin Jackson,43,Maryland,,,
-2018,Issuf Sanon,44,,,,
-2018,Hamidou Diallo,45,Kentucky,.060,-2.1,-0.2
-2018,De'Anthony Melton,46,USC,.082,0.7,4.6
-2018,Svi Mykhailiuk,47,Kansas,.039,-2.4,-0.4
-2018,Keita Bates-Diop,48,Ohio State,.073,-1.8,0.2
-2018,Chimezie Metu,49,USC,.073,-1.8,0.1
-2018,Alize Johnson,50,Missouri State,.108,-2.4,-0.1
-2018,Tony Carr,51,Penn State,,,
-2018,Vince Edwards,52,Purdue,-.014,-6.4,0.0
-2018,Devon Hall,53,Virginia,-.116,-6.7,-0.1
-2018,Shake Milton,54,SMU,.089,-1.8,0.2
-2018,Arnoldas Kulboka,55,,-.217,-21.8,0.0
-2018,Ray Spalding,56,Louisville,.024,-6.2,-0.2
-2018,Kevin Hervey,57,UT Arlington,-.085,-5.1,0.0
-2018,Thomas Welsh,58,UCLA,.162,1.2,0.0
-2018,George King,59,Colorado,-.225,-17.2,-0.1
-2018,Kostas Antetokounmpo,60,Dayton,-.098,-9.9,-0.2
-2019,Zion Williamson,1,Duke,.187,5.1,6.6
-2019,Ja Morant,2,Murray State,.119,2.8,9.7
-2019,RJ Barrett,3,Duke,.043,-2.4,-0.9
-2019,De'Andre Hunter,4,Virginia,.041,-3.4,-2.3
-2019,Darius Garland,5,Vanderbilt,.078,-0.2,3.8
-2019,Jarrett Culver,6,Texas Tech,-.001,-4.5,-1.6
-2019,Coby White,7,UNC,.057,-2.1,-0.1
-2019,Jaxson Hayes,8,Texas,.165,0.0,2.0
-2019,Rui Hachimura,9,Gonzaga,.060,-2.7,-0.9
-2019,Cam Reddish,10,Duke,.022,-3.2,-1.3
-2019,Cameron Johnson,11,UNC,.123,1.4,4.8
-2019,P.J. Washington,12,Kentucky,.064,-1.0,2.0
-2019,Tyler Herro,13,Kentucky,.065,-0.3,3.4
-2019,Romeo Langford,14,Indiana,.045,-3.3,-0.7
-2019,Sekou Doumbouya,15,,-.013,-6.5,-1.8
-2019,Chuma Okeke,16,Auburn,.060,-0.8,1.0
-2019,Nickeil Alexander-Walker,17,Virginia Tech,.019,-2.4,-0.4
-2019,Goga Bitadze,18,,.116,-0.9,0.6
-2019,Luka Šamanić,19,,.027,-4.0,-0.2
-2019,Matisse Thybulle,20,Washington,.097,0.7,3.8
-2019,Brandon Clarke,21,Gonzaga,.189,2.8,6.1
-2019,Grant Williams,22,Tennessee,.097,-1.6,0.6
-2019,Darius Bazley,23,,.024,-2.5,-0.7
-2019,Ty Jerome,24,Virginia,.068,-1.6,0.3
-2019,Nassir Little,25,UNC,.060,-2.5,-0.4
-2019,Dylan Windler,26,Belmont,.064,-1.7,0.1
-2019,Mfiondu Kabengele,27,Florida State,.054,-3.4,-0.1
-2019,Jordan Poole,28,Michigan,.067,-1.6,0.7
-2019,Keldon Johnson,29,Kentucky,.076,-1.1,1.5
-2019,Kevin Porter Jr.,30,USC,.031,-1.6,0.6
-2019,Nic Claxton,31,Georgia,.179,1.8,3.9
-2019,KZ Okpala,32,Stanford,.050,-4.7,-0.7
-2019,Carsen Edwards,33,Purdue,.019,-5.1,-0.5
-2019,Bruno Fernando,34,Maryland,.064,-3.6,-0.6
-2019,Didi Louzada,35,,-.034,-8.1,-0.3
-2019,Cody Martin,36,Nevada,.078,-1.4,0.6
-2019,Deividas Sirvydis,37,,-.032,-5.9,-0.2
-2019,Daniel Gafford,38,Arkansas,.186,1.0,3.4
-2019,Alen Smailagić,39,,.056,-3.3,-0.1
-2019,Justin James,40,Wyoming,.024,-3.1,-0.2
-2019,Eric Paschall,41,Villanova,.078,-2.2,-0.1
-2019,Admiral Schofield,42,Tennessee,.054,-4.2,-0.7
-2019,Jaylen Nowell,43,Washington,.074,-1.6,0.3
-2019,Bol Bol,44,Oregon,.072,-1.0,0.4
-2019,Isaiah Roby,45,Nebraska,.068,-2.3,-0.2
-2019,Talen Horton-Tucker,46,Iowa State,.047,-2.1,-0.1
-2019,Ignas Brazdeikis,47,Michigan,.024,-4.9,-0.6
-2019,Terance Mann,48,Florida State,.120,-0.4,2.3
-2019,Quinndary Weatherspoon,49,Mississippi State,.030,-5.5,-0.2
-2019,Jarrell Brantley,50,College of Charleston,.108,0.0,0.1
-2019,Tremont Waters,51,LSU,.012,-3.0,-0.1
-2019,Jalen McDaniels,52,San Diego State,.070,-2.6,-0.7
-2019,Justin Wright-Foreman,53,Hofstra,-.008,-9.0,-0.1
-2019,Marial Shayok,54,Iowa State,-.130,-13.0,-0.1
-2019,Kyle Guy,55,Virginia,.006,-4.9,-0.3
-2019,Jaylen Hands,56,UCLA,,,
-2019,Jordan Bone,57,Tennessee,.010,-5.9,-0.2
-2019,Miye Oni,58,Yale,.070,-2.5,-0.1
-2019,Dewan Hernandez,59,Miami (FL),.043,-9.6,-0.1
-2019,Vanja Marinković,60,,,,
-2020,Anthony Edwards,1,Georgia,.056,0.1,3.9
-2020,James Wiseman,2,Memphis,.061,-4.2,-0.9
-2020,LaMelo Ball,3,,.097,2.7,6.1
-2020,Patrick Williams,4,Florida State,.069,-1.8,0.2
-2020,Isaac Okoro,5,Auburn,.077,-2.6,-0.8
-2020,Onyeka Okongwu,6,USC,.186,0.5,2.1
-2020,Killian Hayes,7,,-.017,-4.4,-2.7
-2020,Obi Toppin,8,Dayton,.120,0.4,1.8
-2020,Deni Avdija,9,,.053,-2.3,-0.4
-2020,Jalen Smith,10,Maryland,.105,-1.7,0.1
-2020,Devin Vassell,11,Florida State,.070,-0.5,1.5
-2020,Tyrese Haliburton,12,Iowa State,.138,3.6,9.0
-2020,Kira Lewis Jr.,13,Alabama,.043,-3.1,-0.4
-2020,Aaron Nesmith,14,Vanderbilt,.053,-3.3,-1.0
-2020,Cole Anthony,15,UNC,.053,-1.0,1.2
-2020,Isaiah Stewart,16,Washington,.096,-2.2,-0.3
-2020,Aleksej Pokusevski,17,,-.010,-3.2,-1.0
-2020,Josh Green,18,Arizona,.088,-2.1,-0.1
-2020,Saddiq Bey,19,Villanova,.078,-0.4,2.7
-2020,Precious Achiuwa,20,Memphis,.079,-2.9,-0.8
-2020,Tyrese Maxey,21,Kentucky,.125,0.2,3.2
-2020,Zeke Nnaji,22,Arizona,.119,-2.5,-0.2
-2020,Leandro Bolmaro,23,,-.048,-7.8,-0.5
-2020,R.J. Hampton,24,,.014,-3.7,-1.3
-2020,Immanuel Quickley,25,Kentucky,.126,1.0,4.0
-2020,Payton Pritchard,26,Oregon,.099,-0.6,1.0
-2020,Udoka Azubuike,27,Kansas,.136,-1.5,0.1
-2020,Jaden McDaniels,28,Washington,.068,-2.4,-0.5
-2020,Malachi Flynn,29,San Diego State,.050,-2.8,-0.4
-2020,Desmond Bane,30,TCU,.136,2.0,5.7
-2020,Tyrell Terry,31,Stanford,-.035,-4.8,0.0
-2020,Vernon Carey Jr.,32,Duke,.058,-6.3,-0.2
-2020,Daniel Oturu,33,Minnesota,.086,-5.2,-0.2
-2020,Théo Maledon,34,,.002,-4.4,-2.1
-2020,Xavier Tillman Sr.,35,Michigan State,.142,0.8,2.1
-2020,Tyler Bey,36,Colorado,-.033,-9.5,-0.1
-2020,Vit Krejci,37,,.042,-4.8,-0.6
-2020,Saben Lee,38,Vanderbilt,.084,-1.4,0.2
-2020,Elijah Hughes,39,Syracuse,-.039,-6.4,-0.5
-2020,Robert Woodard II,40,Mississippi State,-.077,-7.7,-0.1
-2020,Tre Jones,41,Duke,.090,-1.2,0.7
-2020,Nick Richards,42,Kentucky,.148,-2.1,0.0
-2020,Jahmi'us Ramsey,43,Texas Tech,-.023,-5.9,-0.2
-2020,Marko Simonovic,44,,-.040,-12.7,-0.1
-2020,Jordan Nwora,45,Louisville,.045,-2.9,-0.6
-2020,CJ Elleby,46,Washington State,.018,-5.2,-1.1
-2020,Yam Madar,47,,,,
-2020,Nico Mannion,48,Arizona,.029,-3.9,-0.2
-2020,Isaiah Joe,49,Arkansas,.098,-1.2,0.5
-2020,Skylar Mays,50,LSU,.126,0.8,0.4
-2020,Justinian Jessup,51,Boise State,,,
-2020,Kenyon Martin Jr.,52,,.095,-1.1,1.1
-2020,Cassius Winston,53,Michigan State,.051,-4.9,-0.1
-2020,Cassius Stanley,54,Duke,-.006,-7.9,-0.4
-2020,Jay Scrubb,55,John A. Logan College,-.024,-7.2,-0.3
-2020,Grant Riller,56,College of Charleston,.177,5.1,0.0
-2020,Reggie Perry,57,Mississippi State,.048,-5.5,-0.3
-2020,Paul Reed,58,DePaul,.187,0.3,0.7
-2020,Jalen Harris,59,Nevada,.079,0.3,0.1
-2020,Sam Merrill,60,Utah State University,.081,-2.5,0.0
-2021,Cade Cunningham,1,Oklahoma State,-.012,-1.5,0.3
-2021,Jalen Green,2,,.024,-2.5,-0.6
-2021,Evan Mobley,3,USC,.131,1.2,4.0
-2021,Scottie Barnes,4,Florida State,.108,0.7,3.6
-2021,Jalen Suggs,5,Gonzaga,-.008,-3.5,-1.0
-2021,Josh Giddey,6,,.050,0.2,2.3
-2021,Jonathan Kuminga,7,,.097,-1.8,0.1
-2021,Franz Wagner,8,Michigan,.090,-0.4,2.1
-2021,Davion Mitchell,9,Baylor,.024,-3.3,-1.2
-2021,Ziaire Williams,10,Stanford,.057,-3.9,-0.9
-2021,James Bouknight,11,UConn,-.014,-6.2,-0.8
-2021,Joshua Primo,12,Alabama,-.006,-5.1,-0.8
-2021,Chris Duarte,13,Oregon,.018,-3.1,-0.7
-2021,Moses Moody,14,Arkansas,.080,-2.7,-0.2
-2021,Corey Kispert,15,Gonzaga,.073,-2.0,0.0
-2021,Alperen Şengün,16,,.095,0.4,2.2
-2021,Trey Murphy III,17,Virginia,.135,0.9,2.4
-2021,Tre Mann,18,Florida,.007,-4.3,-1.5
-2021,Kai Jones,19,Texas,.058,-4.5,-0.4
-2021,Jalen Johnson,20,Duke,.089,-0.5,0.4
-2021,Keon Johnson,21,Tennessee,-.039,-5.7,-1.0
-2021,Isaiah Jackson,22,Kentucky,.127,-0.9,0.4
-2021,Usman Garuba,23,,.097,-1.0,0.3
-2021,Josh Christopher,24,Arizona State,.009,-3.7,-0.9
-2021,Quentin Grimes,25,Houston,.102,-0.2,1.3
-2021,Bones Hyland,26,VCU,.078,-0.5,0.9
-2021,Cam Thomas,27,LSU,.037,-3.2,-0.6
-2021,Jaden Springer,28,Tennessee,.150,2.3,0.1
-2021,Day'Ron Sharpe,29,UNC,.141,-2.6,-0.1
-2021,Santi Aldama,30,Loyola (MD),.115,-0.6,0.7
-2021,Isaiah Todd,31,,-.137,-8.9,-0.2
-2021,Jeremiah Robinson-Earl,32,Villanova,.086,-1.8,0.1
-2021,Jason Preston,33,Ohio University,.021,-2.5,0.0
-2021,Rokas Jokubaitis,34,,,,
-2021,Herbert Jones,35,Alabama,.098,-0.5,1.6
-2021,Miles McBride,36,West Virginia,.042,-3.0,-0.3
-2021,JT Thor,37,Auburn,.022,-4.3,-0.7
-2021,Ayo Dosunmu,38,Illinois,.068,-2.2,-0.2
-2021,Neemias Queta,39,Utah State University,.070,-4.7,-0.1
-2021,Jared Butler,40,Baylor,.059,-1.6,0.0
-2021,Joe Wieskamp,41,Iowa,.032,-4.2,-0.1
-2021,Isaiah Livers,42,Michigan,.051,-2.2,-0.1
-2021,Greg Brown III,43,Texas,.017,-5.1,-0.6
-2021,Kessler Edwards,44,Pepperdine,.034,-3.9,-0.6
-2021,Juhann Begarin,45,,,,
-2021,Dalano Banton,46,Nebraska,.035,-2.7,-0.2
-2021,David Johnson,47,Louisville,-.495,-27.7,0.0
-2021,Sharife Cooper,48,Auburn,-.297,-16.3,-0.1
-2021,Marcus Zegarowski,49,Creighton,,,
-2021,Filip Petrušev,50,Gonzaga,,,
-2021,Brandon Boston Jr.,51,Kentucky,.030,-3.1,-0.3
-2021,Luka Garza,52,Iowa,.139,-1.5,0.1
-2021,Charles Bassey,53,Western Kentucky,.147,0.8,0.5
-2021,Sandro Mamukelashvili,54,Seton Hall,.091,-1.7,0.1
-2021,Aaron Wiggins,55,Maryland,.070,-3.3,-0.8
-2021,Scottie Lewis,56,Florida,.164,6.0,0.0
-2021,Balša Koprivica,57,Florida State,,,
-2021,Jericho Sims,58,Texas,.144,-1.0,0.3
-2021,RaiQuan Gray,59,Florida State,,,
-2021,Georgios Kalaitzakis,60,,-.024,-7.0,-0.3
+year,name,pick,college,seasons,g,ws_48,bpm,vorp
+2011,Kyrie Irving,1,Duke,12,671,.166,4.5,37.6
+2011,Derrick Williams,2,Arizona,7,428,.076,-1.6,0.8
+2011,Enes Freedom,3,,11,748,.157,-0.1,7.6
+2011,Tristan Thompson,4,Texas,11,730,.117,-1.7,1.4
+2011,Jonas Valančiūnas,5,,11,772,.175,1.0,15.1
+2011,Jan Veselý,6,,3,162,.078,-2.6,-0.4
+2011,Bismack Biyombo,7,,12,797,.096,-2.5,-2.0
+2011,Brandon Knight,8,Kentucky,9,451,.042,-1.6,1.4
+2011,Kemba Walker,9,UConn,12,750,.116,2.8,29.8
+2011,Jimmer Fredette,10,BYU,6,241,.033,-2.5,-0.4
+2011,Klay Thompson,11,Washington State,10,714,.105,0.6,15.8
+2011,Alec Burks,12,Colorado,12,676,.088,-0.4,6.2
+2011,Markieff Morris,13,Kansas,12,748,.073,-1.4,2.8
+2011,Marcus Morris,14,Kansas,12,783,.087,-0.7,7.1
+2011,Kawhi Leonard,15,San Diego State,11,626,.220,6.8,43.8
+2011,Nikola Vučević,16,USC,12,821,.126,2.2,27.4
+2011,Iman Shumpert,17,Georgia Tech,10,461,.054,-1.7,0.9
+2011,Chris Singleton,18,Florida State,3,148,.042,-3.2,-0.8
+2011,Tobias Harris,19,Tennessee,12,826,.118,1.0,19.9
+2011,Donatas Motiejūnas,20,,6,251,.075,-2.5,-0.5
+2011,Nolan Smith,21,Duke,2,84,-.047,-6.0,-0.8
+2011,Kenneth Faried,22,Morehead State University,8,478,.159,0.5,7.5
+2011,Nikola Mirotić,23,,5,319,.129,1.6,7.1
+2011,Reggie Jackson,24,Boston College,12,768,.083,-0.3,8.2
+2011,MarShon Brooks,25,Providence,5,200,.046,-1.6,0.4
+2011,Jordan Hamilton,26,Texas,5,151,.069,-0.1,1.0
+2011,JaJuan Johnson,27,Purdue,1,36,.032,-3.9,-0.1
+2011,Norris Cole,28,Cleveland State University,6,360,.018,-4.1,-4.1
+2011,Cory Joseph,29,Texas,12,788,.084,-1.1,4.0
+2011,Jimmy Butler,30,Marquette,12,753,.203,5.0,44.0
+2011,Bojan Bogdanović,31,,9,662,.090,-0.7,6.2
+2011,Justin Harper,32,Richmond,3,22,-.093,-8.7,-0.2
+2011,Kyle Singler,33,Duke,6,356,.062,-2.5,-0.9
+2011,Shelvin Mack,34,Butler,8,456,.059,-1.9,0.1
+2011,Tyler Honeycutt,35,UCLA,2,24,-.049,-5.1,-0.1
+2011,Jordan Williams,36,Maryland,1,43,.101,-2.1,0.0
+2011,Trey Thompkins,37,Georgia,1,24,.004,-5.7,-0.1
+2011,Chandler Parsons,38,Florida,9,440,.105,1.1,10.2
+2011,Jeremy Tyler,39,,3,104,.014,-7.0,-1.3
+2011,Jon Leuer,40,Wisconsin,8,377,.107,-0.7,2.0
+2011,Darius Morris,41,Michigan,4,132,-.010,-5.1,-1.2
+2011,Dāvis Bertāns,42,,7,430,.108,0.3,4.5
+2011,Malcolm Lee,43,UCLA,3,36,.040,-2.5,-0.1
+2011,Charles Jenkins,44,Hofstra,2,110,.017,-4.5,-0.8
+2011,Josh Harrellson,45,Kentucky,3,75,.116,-0.4,0.4
+2011,Andrew Goudelock,46,College of Charleston,3,49,.003,-5.0,-0.3
+2011,Travis Leslie,47,Georgia,1,10,.060,-0.3,0.0
+2011,Keith Benson,48,Oakland,1,3,-.005,-7.7,0.0
+2011,Josh Selby,49,Kansas,2,38,-.113,-9.5,-0.6
+2011,Lavoy Allen,50,Temple,6,388,.096,-2.1,-0.1
+2011,Jon Diebler,51,Ohio State,,,,,
+2011,Vernon Macklin,52,Florida,1,23,.161,1.2,0.1
+2011,DeAndre Liggins,53,Kentucky,5,177,.040,-2.2,-0.1
+2011,Milan Mačvan,54,,,,,,
+2011,E'Twaun Moore,55,Purdue,10,598,.057,-1.9,0.2
+2011,Chukwudiebere Maduabum,56,,,,,,
+2011,Tanguy Ngombo,57,,,,,,
+2011,Ater Majok,58,,,,,,
+2011,Ádám Hanga,59,,,,,,
+2011,Isaiah Thomas,60,Washington,11,550,.140,2.1,16.1
+2012,Anthony Davis,1,Kentucky,11,658,.212,6.1,46.0
+2012,Michael Kidd-Gilchrist,2,Kentucky,8,446,.092,-1.8,0.6
+2012,Bradley Beal,3,Florida,11,695,.104,1.7,22.6
+2012,Dion Waiters,4,Syracuse,8,419,.036,-2.1,-0.4
+2012,Thomas Robinson,5,Kansas,5,313,.053,-3.5,-1.6
+2012,Damian Lillard,6,Weber State,11,769,.177,4.9,48.6
+2012,Harrison Barnes,7,UNC,11,827,.093,-0.8,7.7
+2012,Terrence Ross,8,Washington,11,730,.067,-1.0,4.5
+2012,Andre Drummond,9,UConn,11,784,.153,1.2,18.0
+2012,Austin Rivers,10,Duke,11,707,.043,-3.1,-4.5
+2012,Meyers Leonard,11,Illinois,10,454,.104,-1.4,1.1
+2012,Jeremy Lamb,12,UConn,10,573,.108,0.6,7.9
+2012,Kendall Marshall,13,UNC,4,160,.015,-3.5,-1.1
+2012,John Henson,14,UNC,8,445,.113,-0.5,3.4
+2012,Maurice Harkless,15,St. John's,10,621,.079,-0.8,4.1
+2012,Royce White,16,Iowa State,1,3,-.121,-16.9,0.0
+2012,Tyler Zeller,17,UNC,8,414,.113,-2.0,0.0
+2012,Terrence Jones,18,Kentucky,6,234,.127,0.5,3.6
+2012,Andrew Nicholson,19,St. Bonaventure,5,285,.045,-3.6,-1.6
+2012,Evan Fournier,20,,11,670,.078,-1.0,4.7
+2012,Jared Sullinger,21,Ohio State,5,269,.113,-0.4,2.7
+2012,Fab Melo,22,Syracuse,1,6,.021,-7.6,-0.1
+2012,John Jenkins,23,Vanderbilt,6,171,.065,-1.9,0.1
+2012,Jared Cunningham,24,Oregon State,4,84,.017,-5.7,-0.6
+2012,Tony Wroten,25,Washington,4,145,-.021,-3.4,-1.1
+2012,Miles Plumlee,26,Duke,7,346,.090,-1.9,0.2
+2012,Arnett Moultrie,27,Mississippi State,2,59,.113,-2.8,-0.1
+2012,Perry Jones,28,Baylor,3,143,.048,-3.5,-0.6
+2012,Marquis Teague,29,Kentucky,3,91,-.045,-6.5,-1.0
+2012,Festus Ezeli,30,Vanderbilt,3,170,.119,-2.0,0.0
+2012,Jeff Taylor,31,Vanderbilt,3,132,.024,-4.2,-1.5
+2012,Tomáš Satoranský,32,,6,388,.100,-0.9,2.4
+2012,Bernard James,33,Florida State,3,92,.117,-1.8,0.0
+2012,Jae Crowder,34,Marquette,11,751,.104,0.3,11.0
+2012,Draymond Green,35,Michigan State,11,756,.126,2.5,24.7
+2012,Orlando Johnson,36,UC Santa Barbara,3,103,.059,-2.4,-0.1
+2012,Quincy Acy,37,Baylor,7,337,.078,-2.0,-0.1
+2012,Quincy Miller,38,Baylor,3,69,-.003,-3.9,-0.5
+2012,Khris Middleton,39,Texas A&M,11,684,.117,0.7,14.8
+2012,Will Barton,40,Memphis,11,677,.074,-0.4,6.9
+2012,Tyshawn Taylor,41,Kansas,2,61,-.088,-8.1,-0.8
+2012,Doron Lamb,42,Kentucky,2,100,.005,-5.8,-1.2
+2012,Mike Scott,43,Virginia,9,555,.088,-1.7,0.6
+2012,Kim English,44,Missouri,1,41,.021,-4.2,-0.2
+2012,Justin Hamilton,45,LSU,3,113,.091,-0.9,0.5
+2012,Darius Miller,46,Kentucky,6,271,.059,-2.3,-0.4
+2012,Kevin Murphy,47,Tennessee Technological University,1,17,-.272,-16.8,-0.2
+2012,Kostas Papanikolaou,48,,2,69,.015,-2.7,-0.2
+2012,Kyle O'Quinn,49,Norfolk State,8,472,.128,0.9,5.0
+2012,İzzet Türkyılmaz,50,,,,,,
+2012,Kris Joseph,51,Syracuse,1,10,-.127,-9.9,-0.1
+2012,Ognjen Kuzmić,52,,2,37,.061,-5.6,-0.2
+2012,Furkan Aldemir,53,,1,41,.122,-3.6,-0.2
+2012,Tornike Shengelia,54,,2,45,-.032,-7.0,-0.3
+2012,Darius Johnson-Odom,55,Marquette,2,7,-.597,-25.5,-0.1
+2012,Tomislav Zubčić,56,,,,,,
+2012,İlkan Karaman,57,,,,,,
+2012,Robbie Hummel,58,Purdue,2,98,.066,-3.1,-0.4
+2012,Marcus Denmon,59,Missouri,,,,,
+2012,Robert Sacre,60,Gonzaga,4,189,.042,-4.0,-1.4
+2013,Anthony Bennett,1,UNLV,4,151,.013,-4.8,-1.3
+2013,Victor Oladipo,2,Indiana,10,502,.076,0.7,10.8
+2013,Otto Porter Jr.,3,Georgetown,10,512,.132,1.8,12.6
+2013,Cody Zeller,4,Indiana,10,507,.140,-0.6,4.0
+2013,Alex Len,5,Maryland,10,594,.096,-2.0,0.1
+2013,Nerlens Noel,6,Kentucky,9,467,.132,0.9,7.4
+2013,Ben McLemore,7,Kansas,9,556,.035,-3.1,-3.4
+2013,Kentavious Caldwell-Pope,8,Georgia,10,758,.084,-0.8,6.5
+2013,Trey Burke,9,Michigan,9,498,.060,-1.3,1.7
+2013,CJ McCollum,10,Lehigh,10,663,.101,1.3,17.5
+2013,Michael Carter-Williams,11,Syracuse,9,392,.032,-1.2,1.9
+2013,Steven Adams,12,Pitt,10,706,.150,0.5,12.1
+2013,Kelly Olynyk,13,Gonzaga,10,676,.124,0.8,10.8
+2013,Shabazz Muhammad,14,UCLA,5,278,.085,-2.0,0.0
+2013,Giannis Antetokounmpo,15,,10,719,.198,6.2,48.6
+2013,Lucas Nogueira,16,,4,141,.165,2.3,1.9
+2013,Dennis Schröder,17,,10,687,.068,-1.4,2.9
+2013,Shane Larkin,18,Miami (FL),4,256,.044,-2.4,-0.6
+2013,Sergey Karasev,19,,3,95,.036,-3.4,-0.4
+2013,Tony Snell,20,New Mexico,9,601,.068,-2.0,-0.1
+2013,Gorgui Dieng,21,Louisville,10,626,.117,0.3,7.1
+2013,Mason Plumlee,22,Duke,10,738,.148,1.4,14.3
+2013,Solomon Hill,23,Arizona,9,448,.059,-2.1,-0.3
+2013,Tim Hardaway Jr.,24,Michigan,10,657,.075,-0.9,5.0
+2013,Reggie Bullock,25,UNC,10,511,.082,-1.1,2.6
+2013,Andre Roberson,26,Colorado,7,307,.089,-0.6,2.3
+2013,Rudy Gobert,27,,10,679,.221,3.6,29.1
+2013,Livio Jean-Charles,28,,,,,,
+2013,Archie Goodwin,29,Kentucky,4,165,.022,-3.0,-0.6
+2013,Nemanja Nedović,30,,1,24,-.132,-10.0,-0.3
+2013,Allen Crabbe,31,California,7,381,.072,-1.6,0.9
+2013,Álex Abrines,32,,3,174,.086,-1.9,0.1
+2013,Carrick Felix,33,Arizona State,1,7,.057,-3.4,0.0
+2013,Isaiah Canaan,34,Murray State,6,235,.043,-2.4,-0.5
+2013,Glen Rice Jr.,35,Georgia Tech,2,16,-.065,-6.6,-0.2
+2013,Ray McCallum,36,Detroit Mercy,3,154,.035,-2.6,-0.4
+2013,Tony Mitchell,37,University of North Texas,1,21,.151,0.4,0.0
+2013,Nate Wolters,38,South Dakota State,3,84,.028,-2.6,-0.2
+2013,Jeff Withey,39,Kansas,5,206,.157,0.5,1.3
+2013,Grant Jerrett,40,Arizona,1,8,-.128,-10.8,-0.1
+2013,Jamaal Franklin,41,San Diego State,2,24,-.006,-5.9,-0.2
+2013,Pierre Jackson,42,Baylor,1,8,.021,-4.4,-0.1
+2013,Ricky Ledo,43,Providence,2,28,-.096,-7.6,-0.4
+2013,Mike Muscala,44,Bucknell,10,493,.119,0.1,4.1
+2013,Marko Todorović,45,,,,,,
+2013,Erick Green,46,Virginia Tech,2,52,.011,-4.0,-0.2
+2013,Raul Neto,47,,8,433,.082,-1.5,0.9
+2013,Ryan Kelly,48,Duke,4,163,.046,-2.6,-0.5
+2013,Erik Murphy,49,Florida,1,24,-.055,-8.6,-0.1
+2013,James Ennis III,50,Cal State Long Beach,8,395,.097,-1.5,0.9
+2013,Romero Osby,51,Oklahoma,,,,,
+2013,Lorenzo Brown,52,NC State,5,103,-.007,-3.5,-0.5
+2013,Colton Iverson,53,Colorado State,,,,,
+2013,Arsalan Kazemi,54,Oregon,,,,,
+2013,Joffrey Lauvergne,55,,4,208,.089,-2.1,-0.1
+2013,Peyton Siva,56,Louisville,1,24,-.032,-6.4,-0.2
+2013,Alex Oriakhi,57,Missouri,,,,,
+2013,Deshaun Thomas,58,Ohio State,,,,,
+2013,Bojan Dubljević,59,,,,,,
+2013,Jānis Timma,60,,,,,,
+2014,Andrew Wiggins,1,Kansas,9,635,.057,-1.5,3.0
+2014,Jabari Parker,2,Duke,8,310,.078,-0.8,2.5
+2014,Joel Embiid,3,Kansas,7,393,.215,6.5,26.8
+2014,Aaron Gordon,4,Arizona,9,595,.098,0.1,9.4
+2014,Dante Exum,5,,6,245,.032,-3.3,-1.5
+2014,Marcus Smart,6,Oklahoma State,9,581,.092,-0.3,7.7
+2014,Julius Randle,7,Kentucky,9,595,.101,0.9,13.6
+2014,Nik Stauskas,8,Michigan,6,343,.028,-3.0,-1.7
+2014,Noah Vonleh,9,Indiana,8,362,.077,-2.5,-0.7
+2014,Elfrid Payton,10,Louisiana,8,500,.057,-0.9,3.7
+2014,Doug McDermott,11,Creighton,9,591,.079,-2.0,0.0
+2014,Dario Šarić,12,,6,412,.088,-0.9,2.7
+2014,Zach LaVine,13,UCLA,9,554,.082,0.7,12.2
+2014,T.J. Warren,14,NC State,8,374,.097,-0.4,4.2
+2014,Adreian Payne,15,Michigan State,4,107,-.019,-5.9,-1.4
+2014,Jusuf Nurkić,16,,9,463,.112,0.4,6.8
+2014,James Young,17,Kentucky,4,95,.046,-3.4,-0.3
+2014,Tyler Ennis,18,Syracuse,4,186,.026,-3.4,-0.8
+2014,Gary Harris,19,Michigan State,9,516,.076,-1.3,2.5
+2014,Bruno Caboclo,20,,7,105,.054,-2.7,-0.2
+2014,Mitch McGary,21,Michigan,2,52,.108,-2.6,-0.1
+2014,Jordan Adams,22,UCLA,2,32,.070,1.7,0.2
+2014,Rodney Hood,23,Duke,8,448,.076,-1.2,2.2
+2014,Shabazz Napier,24,UConn,6,345,.065,-0.7,2.0
+2014,Clint Capela,25,,9,535,.201,2.1,14.6
+2014,P.J. Hairston,26,UNC,2,111,.021,-3.9,-1.0
+2014,Bogdan Bogdanović,27,,6,369,.086,0.4,6.4
+2014,C.J. Wilcox,28,Washington,3,66,.007,-4.3,-0.2
+2014,Josh Huestis,29,Stanford,3,76,.030,-3.5,-0.4
+2014,Kyle Anderson,30,UCLA,9,572,.123,1.9,12.2
+2014,Damien Inglis,31,,1,20,-.024,-5.6,-0.1
+2014,K.J. McDaniels,32,Clemson,3,148,.030,-2.8,-0.4
+2014,Joe Harris,33,Virginia,9,487,.091,-0.6,4.2
+2014,Cleanthony Early,34,Wichita State,2,56,-.039,-5.9,-0.8
+2014,Jarnell Stokes,35,Tennessee,3,28,.202,0.1,0.1
+2014,Johnny O'Bryant,36,LSU,4,147,.006,-6.2,-1.8
+2014,DeAndre Daniels,37,UConn,,,,,
+2014,Spencer Dinwiddie,38,Colorado,9,465,.107,0.4,7.8
+2014,Jerami Grant,39,Syracuse,9,618,.093,-0.4,6.8
+2014,Glenn Robinson III,40,Michigan,7,304,.071,-1.7,0.4
+2014,Nikola Jokić,41,,8,595,.248,9.4,52.8
+2014,Nick Johnson,42,Arizona,1,28,-.020,-6.5,-0.3
+2014,Edy Tavares,43,,2,13,.118,-0.4,0.0
+2014,Markel Brown,44,Oklahoma State,3,113,.029,-2.9,-0.4
+2014,Dwight Powell,45,Stanford,9,586,.185,0.9,8.3
+2014,Jordan Clarkson,46,Missouri,9,661,.062,-0.6,6.5
+2014,Russ Smith,47,Louisville,2,27,-.068,-5.1,-0.1
+2014,Lamar Patterson,48,Pitt,2,40,.006,-5.7,-0.4
+2014,Cameron Bairstow,49,New Mexico,2,36,-.021,-8.1,-0.3
+2014,Alec Brown,50,Green Bay,,,,,
+2014,Thanasis Antetokounmpo,51,,5,162,.064,-4.0,-0.7
+2014,Vasilije Micić,52,,,,,,
+2014,Alessandro Gentile,53,,,,,,
+2014,Nemanja Dangubić,54,,,,,,
+2014,Semaj Christon,55,Xavier,1,64,.006,-5.1,-0.8
+2014,Devyn Marble,56,Iowa,2,44,-.028,-5.5,-0.4
+2014,Louis Labeyrie,57,,,,,,
+2014,Jordan McRae,58,Tennessee,4,123,.048,-2.1,0.0
+2014,Xavier Thames,59,San Diego State,,,,,
+2014,Cory Jefferson,60,Baylor,2,58,.071,-3.3,-0.2
+2015,Karl-Anthony Towns,1,Kentucky,8,509,.189,4.7,29.4
+2015,D'Angelo Russell,2,Ohio State,8,493,.063,0.7,9.9
+2015,Jahlil Okafor,3,Duke,6,247,.071,-2.0,0.0
+2015,Kristaps Porziņģis,4,,7,402,.133,2.1,13.0
+2015,Mario Hezonja,5,,5,330,.025,-2.8,-1.2
+2015,Willie Cauley-Stein,6,Kentucky,7,422,.121,-0.1,4.4
+2015,Emmanuel Mudiay,7,,6,302,-.001,-3.2,-2.2
+2015,Stanley Johnson,8,Arizona,8,449,.037,-2.7,-1.6
+2015,Frank Kaminsky,9,Wisconsin,8,412,.094,-0.2,3.6
+2015,Justise Winslow,10,Duke,8,344,.044,-2.1,-0.3
+2015,Myles Turner,11,Texas,8,493,.129,0.8,10.1
+2015,Trey Lyles,12,Kentucky,8,521,.087,-1.0,2.3
+2015,Devin Booker,13,Kentucky,8,529,.096,0.9,13.2
+2015,Cameron Payne,14,Murray State,8,325,.075,-0.5,2.2
+2015,Kelly Oubre Jr.,15,Kansas,8,527,.068,-1.7,0.8
+2015,Terry Rozier,16,Louisville,8,540,.084,0.4,8.9
+2015,Rashad Vaughn,17,UNLV,3,139,-.017,-4.7,-1.2
+2015,Sam Dekker,18,Wisconsin,5,201,.083,-1.4,0.5
+2015,Jerian Grant,19,Notre Dame,5,279,.080,-1.6,0.5
+2015,Delon Wright,20,Utah,8,460,.130,2.3,10.5
+2015,Justin Anderson,21,Virginia,6,242,.072,-1.5,0.4
+2015,Bobby Portis,22,Arkansas,8,522,.109,-0.4,4.7
+2015,Rondae Hollis-Jefferson,23,Arizona,6,305,.091,-0.7,2.3
+2015,Tyus Jones,24,Duke,8,534,.116,0.6,6.8
+2015,Jarell Martin,25,LSU,4,184,.053,-4.3,-1.7
+2015,Nikola Milutinov,26,,,,,,
+2015,Larry Nance Jr.,27,Wyoming,8,459,.129,1.1,8.6
+2015,R.J. Hunter,28,Georgia State University,4,45,.051,-2.0,0.0
+2015,Chris McCullough,29,Syracuse,3,59,.054,-2.5,-0.1
+2015,Kevon Looney,30,UCLA,8,447,.174,0.3,4.6
+2015,Cedi Osman,31,,6,402,.053,-2.1,-0.4
+2015,Montrezl Harrell,32,Louisville,8,512,.195,2.6,12.2
+2015,Jordan Mickey,33,LSU,3,64,.050,-4.8,-0.3
+2015,Anthony Brown,34,Stanford,3,41,-.016,-5.1,-0.6
+2015,Willy Hernangómez,35,,7,344,.152,0.1,2.8
+2015,Rakeem Christmas,36,Syracuse,2,30,.105,-4.7,-0.2
+2015,Richaun Holmes,37,Bowling Green,8,416,.160,0.3,4.8
+2015,Darrun Hilliard,38,Villanova,3,91,.016,-4.7,-0.6
+2015,Juan Pablo Vaulet,39,,,,,,
+2015,Josh Richardson,40,Tennessee,8,501,.085,-0.5,5.5
+2015,Pat Connaughton,41,Notre Dame,8,478,.108,-0.2,4.2
+2015,Olivier Hanlan,42,Boston College,,,,,
+2015,Joe Young,43,Oregon,3,127,.016,-4.1,-0.6
+2015,Andrew Harrison,44,Kentucky,3,145,.051,-2.8,-0.6
+2015,Marcus Thornton,45,William & Mary,,,,,
+2015,Norman Powell,46,UCLA,8,479,.100,-0.1,5.2
+2015,Artūras Gudaitis,47,,,,,,
+2015,Dakari Johnson,48,Kentucky,1,31,.178,-0.3,0.1
+2015,Aaron White,49,Iowa,,,,,
+2015,Marcus Eriksson,50,,,,,,
+2015,Tyler Harvey,51,Eastern Washington,,,,,
+2015,Satnam Singh,52,,,,,,
+2015,Sir'Dominic Pointer,53,St. John's,,,,,
+2015,Dani Díez,54,,,,,,
+2015,Cady Lalanne,55,UMass,,,,,
+2015,Branden Dawson,56,Michigan State,1,6,.069,-5.7,0.0
+2015,Nikola Radičević,57,,,,,,
+2015,J.P. Tokoto,58,UNC,,,,,
+2015,Dimitrios Agravanis,59,,,,,,
+2015,Luka Mitrović,60,,,,,,
+2016,Ben Simmons,1,LSU,5,317,.150,3.4,14.1
+2016,Brandon Ingram,2,Duke,7,411,.078,-0.1,6.5
+2016,Jaylen Brown,3,California,7,470,.101,0.3,8.1
+2016,Dragan Bender,4,,4,187,.006,-3.9,-1.9
+2016,Kris Dunn,5,Providence,7,264,.039,-1.9,0.2
+2016,Buddy Hield,6,Oklahoma,7,546,.063,0.4,9.5
+2016,Jamal Murray,7,Kentucky,6,409,.099,0.4,7.7
+2016,Marquese Chriss,8,Washington,6,292,.058,-2.4,-0.5
+2016,Jakob Poeltl,9,Utah,7,486,.162,1.2,8.3
+2016,Thon Maker,10,,5,263,.087,-2.1,-0.1
+2016,Domantas Sabonis,11,Gonzaga,7,493,.156,2.5,16.5
+2016,Taurean Prince,12,Baylor,7,422,.045,-1.9,0.1
+2016,Georgios Papagiannis,13,,2,39,.044,-3.9,-0.2
+2016,Denzel Valentine,14,Michigan State,5,256,.044,-1.9,0.2
+2016,Juancho Hernangómez,15,,7,339,.080,-1.9,0.1
+2016,Guerschon Yabusele,16,,2,74,.105,-1.9,0.0
+2016,Wade Baldwin,17,Vanderbilt,3,56,-.028,-5.3,-0.5
+2016,Henry Ellenson,18,Marquette,5,83,.023,-3.7,-0.3
+2016,Malik Beasley,19,Florida State,7,415,.061,-1.2,1.9
+2016,Caris LeVert,20,Michigan,7,392,.071,-0.5,4.3
+2016,DeAndre' Bembry,21,Saint Joseph's,6,296,.038,-2.3,-0.4
+2016,Malachi Richardson,22,Syracuse,3,70,-.009,-6.1,-0.7
+2016,Ante Žižić,23,,3,113,.110,-2.6,-0.2
+2016,Timothé Luwawu-Cabarrot,24,,6,328,.043,-4.0,-2.7
+2016,Brice Johnson,25,UNC,2,21,.062,-0.6,0.0
+2016,Furkan Korkmaz,26,,6,290,.068,-1.9,0.2
+2016,Pascal Siakam,27,New Mexico State,7,470,.137,2.0,14.5
+2016,Skal Labissière,28,Kentucky,4,148,.081,-2.3,-0.2
+2016,Dejounte Murray,29,Washington,6,393,.093,1.6,9.9
+2016,Damian Jones,30,Vanderbilt,7,237,.143,-1.0,0.9
+2016,Deyonta Davis,31,Michigan State,3,107,.131,-2.1,0.0
+2016,Ivica Zubac,32,,7,434,.174,0.2,5.1
+2016,Cheick Diallo,33,Kansas,5,183,.139,-1.4,0.3
+2016,Tyler Ulis,34,Kentucky,3,133,.008,-3.6,-1.1
+2016,Rade Zagorac,35,,,,,,
+2016,Malcolm Brogdon,36,Virginia,7,400,.122,1.4,10.0
+2016,Chinanu Onuaku,37,Louisville,2,6,.043,-5.4,-0.1
+2016,Patrick McCaw,38,UNLV,5,199,.062,-2.8,-0.6
+2016,David Michineau,39,,,,,,
+2016,Diamond Stone,40,Maryland,1,7,-.211,-20.8,-0.1
+2016,Stephen Zimmerman,41,UNLV,1,19,-.005,-8.3,-0.2
+2016,Isaiah Whitehead,42,Seton Hall,2,89,-.025,-5.0,-1.4
+2016,Zhou Qi,43,,2,19,-.093,-9.6,-0.2
+2016,Isaïa Cordinier,44,,,,,,
+2016,Demetrius Jackson,45,Notre Dame,3,26,.087,-0.5,0.1
+2016,A.J. Hammons,46,Purdue,1,22,-.001,-6.6,-0.2
+2016,Jake Layman,47,Maryland,6,243,.059,-2.3,-0.2
+2016,Paul Zipser,48,,2,98,-.001,-5.2,-1.4
+2016,Michael Gbinije,49,Syracuse,1,9,-.136,-12.1,-0.1
+2016,Georges Niang,50,Iowa State,7,381,.085,-1.2,1.2
+2016,Ben Bentil,51,Providence,1,3,-.473,-25.9,-0.1
+2016,Joel Bolomboy,52,Weber State,2,18,.132,-0.1,0.0
+2016,Petr Cornelie,53,,1,13,-.015,-8.8,-0.1
+2016,Kay Felder,54,Oakland,2,58,-.041,-4.7,-0.4
+2016,Marcus Paige,55,UNC,1,5,-.006,-8.8,0.0
+2016,Daniel Hamilton,56,UConn,2,25,.000,-3.3,-0.1
+2016,Wang Zhelin,57,,,,,,
+2016,Abdel Nader,58,Iowa State,5,202,.052,-2.6,-0.4
+2016,Isaiah Cousins,59,Oklahoma,,,,,
+2016,Tyrone Wallace,60,California,4,112,.003,-5.2,-1.4
+2017,Markelle Fultz,1,Washington,6,189,.069,-1.1,1.2
+2017,Lonzo Ball,2,UCLA,5,252,.067,1.1,6.3
+2017,Jayson Tatum,3,Duke,6,438,.147,3.3,19.9
+2017,Josh Jackson,4,Kansas,5,291,-.012,-3.8,-3.1
+2017,De'Aaron Fox,5,Kentucky,6,394,.087,0.5,8.1
+2017,Jonathan Isaac,6,Florida State,4,147,.093,0.3,2.1
+2017,Lauri Markkanen,7,Arizona,6,348,.112,0.8,7.3
+2017,Frank Ntilikina,8,,6,314,.004,-4.3,-3.1
+2017,Dennis Smith Jr.,9,NC State,6,270,.004,-2.3,-0.5
+2017,Zach Collins,10,Gonzaga,5,244,.075,-1.7,0.4
+2017,Malik Monk,11,Kentucky,6,385,.054,-1.4,1.2
+2017,Luke Kennard,12,Duke,6,355,.101,-0.2,3.7
+2017,Donovan Mitchell,13,Louisville,6,413,.129,3.1,18.1
+2017,Bam Adebayo,14,Kentucky,6,416,.167,2.6,14.4
+2017,Justin Jackson,15,UNC,6,278,.052,-2.8,-1.0
+2017,Justin Patton,16,Creighton,4,22,.066,-2.8,-0.1
+2017,D.J. Wilson,17,Michigan,5,146,.075,-2.6,-0.3
+2017,T.J. Leaf,18,UCLA,4,146,.104,-1.8,0.1
+2017,John Collins,19,Wake Forest,6,363,.147,0.9,7.8
+2017,Harry Giles,20,Duke,3,142,.079,-2.4,-0.2
+2017,Terrance Ferguson,21,,4,204,.053,-4.0,-2.1
+2017,Jarrett Allen,22,Texas,6,408,.189,1.9,11.0
+2017,OG Anunoby,23,Indiana,6,367,.103,0.2,5.8
+2017,Tyler Lydon,24,Syracuse,2,26,.084,-4.3,-0.1
+2017,Anžejs Pasečņiks,25,,2,28,.038,-6.2,-0.5
+2017,Caleb Swanigan,26,Purdue,3,75,-.015,-6.2,-0.7
+2017,Kyle Kuzma,27,Utah,6,406,.057,-1.1,2.8
+2017,Tony Bradley,28,UNC,6,179,.181,0.2,1.1
+2017,Derrick White,29,Colorado,6,343,.120,1.4,7.9
+2017,Josh Hart,30,Villanova,6,370,.100,0.0,5.2
+2017,Frank Jackson,31,Duke,5,214,.031,-3.9,-1.9
+2017,Davon Reed,32,Miami (FL),4,121,.054,-3.0,-0.3
+2017,Wes Iwundu,33,Kansas State,5,226,.053,-3.9,-1.8
+2017,Frank Mason III,34,Kansas,4,103,.035,-2.6,-0.3
+2017,Ivan Rabb,35,California,2,85,.125,-1.7,0.1
+2017,Jonah Bolden,36,,2,51,.098,-1.3,0.1
+2017,Semi Ojeleye,37,SMU,5,284,.061,-3.4,-1.5
+2017,Jordan Bell,38,Oregon,5,161,.121,0.2,1.1
+2017,Jawun Evans,39,Oklahoma State,2,56,-.022,-5.4,-0.7
+2017,Dwayne Bacon,40,Florida State,4,207,.010,-5.1,-3.1
+2017,Tyler Dorsey,41,Oregon,3,107,.031,-3.0,-0.5
+2017,Thomas Bryant,42,Indiana,6,228,.167,1.2,3.6
+2017,Isaiah Hartenstein,43,,5,245,.163,1.0,2.9
+2017,Damyean Dotson,44,Oregon,5,213,.034,-2.8,-0.9
+2017,Dillon Brooks,45,Oregon,6,344,.034,-3.8,-4.5
+2017,Sterling Brown,46,SMU,6,268,.071,-2.1,-0.1
+2017,Ike Anigbogu,47,UCLA,2,14,.057,-1.1,0.0
+2017,Sindarius Thornwell,48,South Carolina,4,160,.032,-3.1,-0.5
+2017,Vlatko Čančar,49,,4,127,.087,-2.2,-0.1
+2017,Mathias Lessort,50,,,,,,
+2017,Monte Morris,51,Iowa State,6,342,.124,0.4,5.2
+2017,Edmond Sumner,52,Xavier,5,160,.068,-3.0,-0.6
+2017,Kadeem Allen,53,Arizona,3,47,.075,-1.2,0.1
+2017,Alec Peters,54,Valparaiso,1,20,.055,-2.8,0.0
+2017,Nigel Williams-Goss,55,Gonzaga,1,10,.017,-3.9,0.0
+2017,Jabari Bird,56,California,1,13,.098,-3.1,0.0
+2017,Sasha Vezenkov,57,,,,,,
+2017,Ognjen Jaramaz,58,,,,,,
+2017,Jaron Blossomgame,59,Clemson,1,27,.030,-3.8,-0.2
+2017,Alpha Kaba,60,,,,,,
+2018,Deandre Ayton,1,Arizona,5,302,.160,1.1,7.2
+2018,Marvin Bagley III,2,Duke,5,206,.087,-1.9,0.1
+2018,Luka Dončić,3,,5,329,.167,7.3,26.3
+2018,Jaren Jackson Jr.,4,Michigan State,5,266,.126,0.6,4.8
+2018,Trae Young,5,Oklahoma,5,352,.133,3.1,15.2
+2018,Mo Bamba,6,Texas,5,273,.122,0.2,2.8
+2018,Wendell Carter Jr.,7,Duke,5,259,.120,-0.2,3.2
+2018,Collin Sexton,8,Alabama,5,266,.046,-2.3,-0.7
+2018,Kevin Knox,9,Kentucky,5,272,.001,-4.5,-3.1
+2018,Mikal Bridges,10,Villanova,5,390,.123,1.2,10.3
+2018,Shai Gilgeous-Alexander,11,Kentucky,5,310,.137,3.1,13.1
+2018,Miles Bridges,12,Michigan State,4,291,.091,-0.2,3.8
+2018,Jerome Robinson,13,Boston College,3,113,-.003,-4.7,-1.1
+2018,Michael Porter Jr.,14,Missouri,4,186,.138,1.4,4.1
+2018,Troy Brown Jr.,15,Oregon,5,295,.062,-1.7,0.4
+2018,Zhaire Smith,16,Texas Tech,2,13,.011,-6.1,-0.1
+2018,Donte DiVincenzo,17,Villanova,5,271,.094,0.0,3.3
+2018,Lonnie Walker IV,18,Miami (FL),5,263,.032,-2.8,-1.2
+2018,Kevin Huerter,19,Maryland,5,348,.067,-0.8,3.1
+2018,Josh Okogie,20,Georgia Tech,5,313,.061,-2.4,-0.6
+2018,Grayson Allen,21,Duke,5,264,.103,-0.4,2.4
+2018,Chandler Hutchison,22,Boise State,4,103,.030,-3.9,-0.9
+2018,Aaron Holiday,23,UCLA,5,306,.052,-2.2,-0.3
+2018,Anfernee Simons,24,,5,273,.049,-1.8,0.3
+2018,Moritz Wagner,25,Michigan,5,252,.112,-0.8,1.2
+2018,Landry Shamet,26,Wichita State,5,299,.081,-1.8,0.3
+2018,Robert Williams,27,Texas A&M,5,208,.249,4.9,7.4
+2018,Jacob Evans,28,Cincinnati,2,59,-.047,-7.4,-0.8
+2018,Džanan Musa,29,,2,49,.003,-4.6,-0.4
+2018,Omari Spellman,30,Villanova,2,95,.068,-1.5,0.2
+2018,Elie Okobo,31,,2,108,.014,-4.1,-0.9
+2018,Jevon Carter,32,West Virginia,5,302,.078,-0.9,1.4
+2018,Jalen Brunson,33,Villanova,5,345,.136,1.0,7.0
+2018,Devonte' Graham,34,Kansas,5,313,.075,-0.4,3.3
+2018,Melvin Frazier,35,Tulane,3,32,-.062,-10.0,-0.6
+2018,Mitchell Robinson,36,,5,288,.214,2.3,7.7
+2018,Gary Trent Jr.,37,Duke,5,268,.086,-0.6,2.6
+2018,Khyri Thomas,38,Creighton,3,39,.058,-2.7,-0.1
+2018,Isaac Bonga,39,,4,143,.044,-3.6,-0.7
+2018,Rodions Kurucs,40,,3,131,.052,-2.8,-0.4
+2018,Jarred Vanderbilt,41,Kentucky,5,242,.137,0.4,3.0
+2018,Bruce Brown,42,Miami (FL),5,347,.094,-0.9,2.4
+2018,Justin Jackson,43,Maryland,,,,,
+2018,Issuf Sanon,44,,,,,,
+2018,Hamidou Diallo,45,Kentucky,5,263,.060,-2.1,-0.2
+2018,De'Anthony Melton,46,USC,5,311,.082,0.7,4.6
+2018,Svi Mykhailiuk,47,Kansas,5,250,.039,-2.4,-0.4
+2018,Keita Bates-Diop,48,Ohio State,5,227,.073,-1.8,0.2
+2018,Chimezie Metu,49,USC,5,207,.073,-1.8,0.1
+2018,Alize Johnson,50,Missouri State,5,76,.108,-2.4,-0.1
+2018,Tony Carr,51,Penn State,,,,,
+2018,Vince Edwards,52,Purdue,1,2,-.014,-6.4,0.0
+2018,Devon Hall,53,Virginia,1,11,-.116,-6.7,-0.1
+2018,Shake Milton,54,SMU,5,251,.089,-1.8,0.2
+2018,Arnoldas Kulboka,55,,1,2,-.217,-21.8,0.0
+2018,Ray Spalding,56,Louisville,2,16,.024,-6.2,-0.2
+2018,Kevin Hervey,57,UT Arlington,1,10,-.085,-5.1,0.0
+2018,Thomas Welsh,58,UCLA,1,11,.162,1.2,0.0
+2018,George King,59,Colorado,2,5,-.225,-17.2,-0.1
+2018,Kostas Antetokounmpo,60,Dayton,3,22,-.098,-9.9,-0.2
+2019,Zion Williamson,1,Duke,3,114,.187,5.1,6.6
+2019,Ja Morant,2,Murray State,4,247,.119,2.8,9.7
+2019,RJ Barrett,3,Duke,4,269,.043,-2.4,-0.9
+2019,De'Andre Hunter,4,Virginia,4,204,.041,-3.4,-2.3
+2019,Darius Garland,5,Vanderbilt,4,250,.078,-0.2,3.8
+2019,Jarrett Culver,6,Texas Tech,4,144,-.001,-4.5,-1.6
+2019,Coby White,7,UNC,4,267,.057,-2.1,-0.1
+2019,Jaxson Hayes,8,Texas,4,241,.165,0.0,2.0
+2019,Rui Hachimura,9,Gonzaga,4,208,.060,-2.7,-0.9
+2019,Cam Reddish,10,Duke,4,173,.022,-3.2,-1.3
+2019,Cameron Johnson,11,UNC,4,224,.123,1.4,4.8
+2019,P.J. Washington,12,Kentucky,4,260,.064,-1.0,2.0
+2019,Tyler Herro,13,Kentucky,4,240,.065,-0.3,3.4
+2019,Romeo Langford,14,Indiana,4,138,.045,-3.3,-0.7
+2019,Sekou Doumbouya,15,,3,96,-.013,-6.5,-1.8
+2019,Chuma Okeke,16,Auburn,3,139,.060,-0.8,1.0
+2019,Nickeil Alexander-Walker,17,Virginia Tech,4,215,.019,-2.4,-0.4
+2019,Goga Bitadze,18,,4,184,.116,-0.9,0.6
+2019,Luka Šamanić,19,,3,40,.027,-4.0,-0.2
+2019,Matisse Thybulle,20,Washington,4,267,.097,0.7,3.8
+2019,Brandon Clarke,21,Gonzaga,4,237,.189,2.8,6.1
+2019,Grant Williams,22,Tennessee,4,286,.097,-1.6,0.6
+2019,Darius Bazley,23,,4,226,.024,-2.5,-0.7
+2019,Ty Jerome,24,Virginia,4,157,.068,-1.6,0.3
+2019,Nassir Little,25,UNC,4,192,.060,-2.5,-0.4
+2019,Dylan Windler,26,Belmont,3,84,.064,-1.7,0.1
+2019,Mfiondu Kabengele,27,Florida State,3,53,.054,-3.4,-0.1
+2019,Jordan Poole,28,Michigan,4,264,.067,-1.6,0.7
+2019,Keldon Johnson,29,Kentucky,4,223,.076,-1.1,1.5
+2019,Kevin Porter Jr.,30,USC,4,195,.031,-1.6,0.6
+2019,Nic Claxton,31,Georgia,4,169,.179,1.8,3.9
+2019,KZ Okpala,32,Stanford,4,98,.050,-4.7,-0.7
+2019,Carsen Edwards,33,Purdue,3,72,.019,-5.1,-0.5
+2019,Bruno Fernando,34,Maryland,4,157,.064,-3.6,-0.6
+2019,Didi Louzada,35,,2,12,-.034,-8.1,-0.3
+2019,Cody Martin,36,Nevada,4,178,.078,-1.4,0.6
+2019,Deividas Sirvydis,37,,2,23,-.032,-5.9,-0.2
+2019,Daniel Gafford,38,Arkansas,4,246,.186,1.0,3.4
+2019,Alen Smailagić,39,,2,29,.056,-3.3,-0.1
+2019,Justin James,40,Wyoming,2,72,.024,-3.1,-0.2
+2019,Eric Paschall,41,Villanova,3,158,.078,-2.2,-0.1
+2019,Admiral Schofield,42,Tennessee,3,105,.054,-4.2,-0.7
+2019,Jaylen Nowell,43,Washington,4,184,.074,-1.6,0.3
+2019,Bol Bol,44,Oregon,4,120,.072,-1.0,0.4
+2019,Isaiah Roby,45,Nebraska,4,151,.068,-2.3,-0.2
+2019,Talen Horton-Tucker,46,Iowa State,4,196,.047,-2.1,-0.1
+2019,Ignas Brazdeikis,47,Michigan,3,64,.024,-4.9,-0.6
+2019,Terance Mann,48,Florida State,4,268,.120,-0.4,2.3
+2019,Quinndary Weatherspoon,49,Mississippi State,3,42,.030,-5.5,-0.2
+2019,Jarrell Brantley,50,College of Charleston,3,41,.108,0.0,0.1
+2019,Tremont Waters,51,LSU,3,40,.012,-3.0,-0.1
+2019,Jalen McDaniels,52,San Diego State,4,195,.070,-2.6,-0.7
+2019,Justin Wright-Foreman,53,Hofstra,1,4,-.008,-9.0,-0.1
+2019,Marial Shayok,54,Iowa State,1,4,-.130,-13.0,-0.1
+2019,Kyle Guy,55,Virginia,3,53,.006,-4.9,-0.3
+2019,Jaylen Hands,56,UCLA,,,,,
+2019,Jordan Bone,57,Tennessee,2,24,.010,-5.9,-0.2
+2019,Miye Oni,58,Yale,3,80,.070,-2.5,-0.1
+2019,Dewan Hernandez,59,Miami (FL),1,6,.043,-9.6,-0.1
+2019,Vanja Marinković,60,,,,,,
+2020,Anthony Edwards,1,Georgia,3,221,.056,0.1,3.9
+2020,James Wiseman,2,Memphis,2,82,.061,-4.2,-0.9
+2020,LaMelo Ball,3,,3,162,.097,2.7,6.1
+2020,Patrick Williams,4,Florida State,3,168,.069,-1.8,0.2
+2020,Isaac Okoro,5,Auburn,3,210,.077,-2.6,-0.8
+2020,Onyeka Okongwu,6,USC,3,176,.186,0.5,2.1
+2020,Killian Hayes,7,,3,166,-.017,-4.4,-2.7
+2020,Obi Toppin,8,Dayton,3,199,.120,0.4,1.8
+2020,Deni Avdija,9,,3,212,.053,-2.3,-0.4
+2020,Jalen Smith,10,Maryland,3,146,.105,-1.7,0.1
+2020,Devin Vassell,11,Florida State,3,171,.070,-0.5,1.5
+2020,Tyrese Haliburton,12,Iowa State,3,191,.138,3.6,9.0
+2020,Kira Lewis Jr.,13,Alabama,3,103,.043,-3.1,-0.4
+2020,Aaron Nesmith,14,Vanderbilt,3,169,.053,-3.3,-1.0
+2020,Cole Anthony,15,UNC,3,171,.053,-1.0,1.2
+2020,Isaiah Stewart,16,Washington,3,189,.096,-2.2,-0.3
+2020,Aleksej Pokusevski,17,,3,140,-.010,-3.2,-1.0
+2020,Josh Green,18,Arizona,3,166,.088,-2.1,-0.1
+2020,Saddiq Bey,19,Villanova,3,227,.078,-0.4,2.7
+2020,Precious Achiuwa,20,Memphis,3,187,.079,-2.9,-0.8
+2020,Tyrese Maxey,21,Kentucky,3,196,.125,0.2,3.2
+2020,Zeke Nnaji,22,Arizona,3,133,.119,-2.5,-0.2
+2020,Leandro Bolmaro,23,,2,49,-.048,-7.8,-0.5
+2020,R.J. Hampton,24,,3,160,.014,-3.7,-1.3
+2020,Immanuel Quickley,25,Kentucky,3,221,.126,1.0,4.0
+2020,Payton Pritchard,26,Oregon,3,183,.099,-0.6,1.0
+2020,Udoka Azubuike,27,Kansas,3,65,.136,-1.5,0.1
+2020,Jaden McDaniels,28,Washington,3,210,.068,-2.4,-0.5
+2020,Malachi Flynn,29,San Diego State,3,142,.050,-2.8,-0.4
+2020,Desmond Bane,30,TCU,3,201,.136,2.0,5.7
+2020,Tyrell Terry,31,Stanford,2,13,-.035,-4.8,0.0
+2020,Vernon Carey Jr.,32,Duke,3,37,.058,-6.3,-0.2
+2020,Daniel Oturu,33,Minnesota,2,33,.086,-5.2,-0.2
+2020,Théo Maledon,34,,3,158,.002,-4.4,-2.1
+2020,Xavier Tillman Sr.,35,Michigan State,3,172,.142,0.8,2.1
+2020,Tyler Bey,36,Colorado,1,18,-.033,-9.5,-0.1
+2020,Vit Krejci,37,,2,58,.042,-4.8,-0.6
+2020,Saben Lee,38,Vanderbilt,3,108,.084,-1.4,0.2
+2020,Elijah Hughes,39,Syracuse,2,54,-.039,-6.4,-0.5
+2020,Robert Woodard II,40,Mississippi State,2,25,-.077,-7.7,-0.1
+2020,Tre Jones,41,Duke,3,171,.090,-1.2,0.7
+2020,Nick Richards,42,Kentucky,3,131,.148,-2.1,0.0
+2020,Jahmi'us Ramsey,43,Texas Tech,2,32,-.023,-5.9,-0.2
+2020,Marko Simonovic,44,,2,15,-.040,-12.7,-0.1
+2020,Jordan Nwora,45,Louisville,3,152,.045,-2.9,-0.6
+2020,CJ Elleby,46,Washington State,2,88,.018,-5.2,-1.1
+2020,Yam Madar,47,,,,,,
+2020,Nico Mannion,48,Arizona,1,30,.029,-3.9,-0.2
+2020,Isaiah Joe,49,Arkansas,3,168,.098,-1.2,0.5
+2020,Skylar Mays,50,LSU,3,64,.126,0.8,0.4
+2020,Justinian Jessup,51,Boise State,,,,,
+2020,Kenyon Martin Jr.,52,,3,204,.095,-1.1,1.1
+2020,Cassius Winston,53,Michigan State,2,29,.051,-4.9,-0.1
+2020,Cassius Stanley,54,Duke,2,33,-.006,-7.9,-0.4
+2020,Jay Scrubb,55,John A. Logan College,3,23,-.024,-7.2,-0.3
+2020,Grant Riller,56,College of Charleston,1,7,.177,5.1,0.0
+2020,Reggie Perry,57,Mississippi State,2,36,.048,-5.5,-0.3
+2020,Paul Reed,58,DePaul,3,130,.187,0.3,0.7
+2020,Jalen Harris,59,Nevada,1,13,.079,0.3,0.1
+2020,Sam Merrill,60,Utah State University,3,39,.081,-2.5,0.0
+2021,Cade Cunningham,1,Oklahoma State,2,76,-.012,-1.5,0.3
+2021,Jalen Green,2,,2,141,.024,-2.5,-0.6
+2021,Evan Mobley,3,USC,2,147,.131,1.2,4.0
+2021,Scottie Barnes,4,Florida State,2,149,.108,0.7,3.6
+2021,Jalen Suggs,5,Gonzaga,2,98,-.008,-3.5,-1.0
+2021,Josh Giddey,6,,2,129,.050,0.2,2.3
+2021,Jonathan Kuminga,7,,2,135,.097,-1.8,0.1
+2021,Franz Wagner,8,Michigan,2,157,.090,-0.4,2.1
+2021,Davion Mitchell,9,Baylor,2,154,.024,-3.3,-1.2
+2021,Ziaire Williams,10,Stanford,2,98,.057,-3.9,-0.9
+2021,James Bouknight,11,UConn,2,63,-.014,-6.2,-0.8
+2021,Joshua Primo,12,Alabama,2,54,-.006,-5.1,-0.8
+2021,Chris Duarte,13,Oregon,2,101,.018,-3.1,-0.7
+2021,Moses Moody,14,Arkansas,2,113,.080,-2.7,-0.2
+2021,Corey Kispert,15,Gonzaga,2,149,.073,-2.0,0.0
+2021,Alperen Şengün,16,,2,145,.095,0.4,2.2
+2021,Trey Murphy III,17,Virginia,2,139,.135,0.9,2.4
+2021,Tre Mann,18,Florida,2,125,.007,-4.3,-1.5
+2021,Kai Jones,19,Texas,2,65,.058,-4.5,-0.4
+2021,Jalen Johnson,20,Duke,2,90,.089,-0.5,0.4
+2021,Keon Johnson,21,Tennessee,2,77,-.039,-5.7,-1.0
+2021,Isaiah Jackson,22,Kentucky,2,97,.127,-0.9,0.4
+2021,Usman Garuba,23,,2,97,.097,-1.0,0.3
+2021,Josh Christopher,24,Arizona State,2,136,.009,-3.7,-0.9
+2021,Quentin Grimes,25,Houston,2,115,.102,-0.2,1.3
+2021,Bones Hyland,26,VCU,2,123,.078,-0.5,0.9
+2021,Cam Thomas,27,LSU,2,123,.037,-3.2,-0.6
+2021,Jaden Springer,28,Tennessee,2,16,.150,2.3,0.1
+2021,Day'Ron Sharpe,29,UNC,2,78,.141,-2.6,-0.1
+2021,Santi Aldama,30,Loyola (MD),2,109,.115,-0.6,0.7
+2021,Isaiah Todd,31,,2,17,-.137,-8.9,-0.2
+2021,Jeremiah Robinson-Earl,32,Villanova,2,90,.086,-1.8,0.1
+2021,Jason Preston,33,Ohio University,1,13,.021,-2.5,0.0
+2021,Rokas Jokubaitis,34,,,,,,
+2021,Herbert Jones,35,Alabama,2,142,.098,-0.5,1.6
+2021,Miles McBride,36,West Virginia,2,102,.042,-3.0,-0.3
+2021,JT Thor,37,Auburn,2,100,.022,-4.3,-0.7
+2021,Ayo Dosunmu,38,Illinois,2,155,.068,-2.2,-0.2
+2021,Neemias Queta,39,Utah State University,2,19,.070,-4.7,-0.1
+2021,Jared Butler,40,Baylor,2,46,.059,-1.6,0.0
+2021,Joe Wieskamp,41,Iowa,2,36,.032,-4.2,-0.1
+2021,Isaiah Livers,42,Michigan,2,71,.051,-2.2,-0.1
+2021,Greg Brown III,43,Texas,2,64,.017,-5.1,-0.6
+2021,Kessler Edwards,44,Pepperdine,2,82,.034,-3.9,-0.6
+2021,Juhann Begarin,45,,,,,,
+2021,Dalano Banton,46,Nebraska,2,93,.035,-2.7,-0.2
+2021,David Johnson,47,Louisville,1,2,-.495,-27.7,0.0
+2021,Sharife Cooper,48,Auburn,1,13,-.297,-16.3,-0.1
+2021,Marcus Zegarowski,49,Creighton,,,,,
+2021,Filip Petrušev,50,Gonzaga,,,,,
+2021,Brandon Boston Jr.,51,Kentucky,2,72,.030,-3.1,-0.3
+2021,Luka Garza,52,Iowa,2,59,.139,-1.5,0.1
+2021,Charles Bassey,53,Western Kentucky,2,58,.147,0.8,0.5
+2021,Sandro Mamukelashvili,54,Seton Hall,2,81,.091,-1.7,0.1
+2021,Aaron Wiggins,55,Maryland,2,118,.070,-3.3,-0.8
+2021,Scottie Lewis,56,Florida,1,2,.164,6.0,0.0
+2021,Balša Koprivica,57,Florida State,,,,,
+2021,Jericho Sims,58,Texas,2,92,.144,-1.0,0.3
+2021,RaiQuan Gray,59,Florida State,,,,,
+2021,Georgios Kalaitzakis,60,,1,13,-.024,-7.0,-0.3
